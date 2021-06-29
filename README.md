@@ -1,59 +1,131 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Dublin Airport Plane Spotters
 
-Welcome alperkan1,
+Dublin Airport Plane Spotters is to bring together the plane spotter community Based in Dublin to communicate and share their experiences plane spotting. The site will be open to all but will target the plane spotters who would like to socialise with other pole who enjoy there hobby. Dublin Airport Plane Spotters will be a perfect place get the information of special plane movements that are arriving and departing with the best location to see the aircraft. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+1. [UX](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#UX)
+   1. [Structure and Design](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#structure-and-design)
+2. [Features](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#Features)
+   1. [Navigation Bar](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#navigation-bar)
+   2. [The Landing Page](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#the-landing-page)
+   3. [Community Philosophy](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#community-philosophy)
+   4. [Special Flights Section](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#special-flights-section)
+   5. [Sing Up Page](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#sing-up-page)
+   6. [Images](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#images)
+   7. [Footer](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#fotter)
+   8. [Features left to implement](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#features-left-to-implement)
+3. [Desing Features](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#desing-features)
+   1. [Colors](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#colors)
+   2. [Fonts](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#fonts)
+   3. [Structure](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#structure)
+   4. [Wireframes](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#wireframes)
+4. [Technologies Used](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#technologies-used)
+   1. [Web Technologies](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#web-echnologies)
+   2. [Developer Tools](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#developer-tools)
+5. [Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#testing)
+   1. [Validator Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#validator-testing)
+   2. [Unfixed Bugs](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#unfixed-bugs)
+6. [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
+7. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
+8. [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
+9. [Media](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#media)
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## UX
 
-`python3 -m http.server`
+### Structure and Design
 
-A blue button should appear to click: _Make Public_,
+## Features
 
-Another blue button should appear to click: _Open Browser_.
+### Navigation Bar
+- The links to jump from page to page for easy navigation on all devices.
+- The links will be placed on the top of each page.
+- The person viewing the page will be able to navigate without having use the back button or the history to see how to get back to an older page.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- Image to be put in 
 
-A blue button should appear to click: _Make Public_,
+### The Landing Page
+- he landing page will have a photo of Dublin Airport. With Text overlay of Dublin Airport Plane Spotters.
+- This section is to communicate what the site is for with an inspirational image of an aircraft in Dublin Airport. 
 
-Another blue button should appear to click: _Open Browser_.
+- Image to be put in
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Community Philosophy
+- This section will include why the person should join the site what benefits they will receive from joining the site.
+- The user will become a part of a community of likeminded people.
+- The site should encourage people to go plane spotting together. And be a part of a larger group.
 
-To log into the Heroku toolbelt CLI:
+- Image of the Community Philosophy
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### Special Flights Section
+- This section will inform users of when certain aircraft will be landing at Dublin Airport.
+- What time it is scheduled to land or take off.
+- This section will be updated with new times and dates of unusal aircraft arriving in Dublin Airport.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidently make it public then you can create a new one with _Regenerate API Key_.
+- Images of the section
 
-## Updates Since The Instructional Video
+### Sing Up Page
+- This is where people with an interest in plane spotting can become a member of the Dublin Plane Spotters site.
+- The member will supply us with their name, surname and e mail adress. 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+- Image of the Sing Up Page 
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+### Images
+- Will show images of aircraft in Dublin Airport by the community.
+- This section is valuable to the user as they can see what type of photos people like to take.
+- Where the best images can be taken.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+- image of the images 
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+### The Footer
+- Will have social media links that relate to the Dublin Airport Plane Spotting community.
+- There will be a Iframe of flight radar24 for users to be able to see the most up to date flight information 
+- this will be on all pages
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+- Image of the footer 
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+### Features left to implement
+- A community chat where people from the group can live chat and share their images.
+- Mail alert service when a special aircraft is arriving to the airport for the community get alerts.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Desing Features 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+### Colors 
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+### Fonts 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+### Structure 
 
----
+### Wireframes
 
-Happy coding!
+## Technologies Used
+
+### Web Technologies 
+
+### Developer Tools 
+
+
+## Testing 
+- Have to build it to test it
+
+### Validator Testing
+- Have to build it to test it
+
+### Unfixed Bugs
+- Have to build it to test it
+
+## Deployment
+-Have to buid it to go truth the deployment steps
+
+## Credits
+-have to buid it first
+
+## Content
+-have to build it first
+ 
+## Media
+
+-have to build it first
+
+
+[Back to the top](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#Dublin-Airport-Plane-Spotters)
+
