@@ -121,14 +121,18 @@ footer {
 /*gallery*/
 
 #photos {
+    margin: 50px;
     clear: both;
-    line-height: 0;
-    column-count: 4;
-    column-gap: 0;
+    line-height: 30px;
+    column-count: 3;
+    column-gap: 3;
+    
 }
 
-#photos>img {
+#photos > img {
     width: 100%;
+    border-style: inset;
+    border-width: thick;
 }
 
 
