@@ -126,14 +126,15 @@ footer {
     line-height: 30px;
     column-count: 3;
     column-gap: 3;
-    
+
 }
 
-#photos > img {
+#photos>img {
     width: 100%;
     border-style: inset;
     border-width: thick;
 }
+
 /*plane image for index*/
 
 
@@ -144,24 +145,25 @@ footer {
     position: relative;
 }
 
-#cover-text,
-#cover-text h2 {
-    color: white
+#plane-text,
+#plane-text h2 {
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 #plane-image {
     height: 500px;
-    width:100%;
+    width: 100%;
     background: url("../images/plane.jpg") no-repeat center center;
-    
-    /*css animates zoom effect on loading page*/
+
+    /*lane image will zoom*/
 
     animation-name: plane-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
 
-/*Css Animation*/
 
 @keyframes plane-zoom {
     from {
@@ -175,3 +177,21 @@ footer {
     }
 }
 
+#plane-text {
+    font-size: 100%;
+    font-family: Open+Sans, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 300px;
+    height: 165px;
+
+    padding-top: 20px;
+    padding-left: 10px;
+
+    background-color: rgba(53, 49, 48, 0.7);
+    bottom: 5px;
+
+    left: 40px;
+
+    position: absolute;
+}
