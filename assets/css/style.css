@@ -126,7 +126,7 @@ footer {
 /*gallery*/
 
 #photos {
-    margin: 50px;
+    margin-top: 60px;
     clear: both;
     line-height: 30px;
     column-count: 3;
