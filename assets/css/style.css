@@ -134,6 +134,44 @@ footer {
     border-style: inset;
     border-width: thick;
 }
+/*plane image for index*/
 
 
+#plane-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#cover-text,
+#cover-text h2 {
+    color: white
+}
+
+#plane-image {
+    height: 500px;
+    width:100%;
+    background: url("../images/plane.jpg") no-repeat center center;
+    
+    /*css animates zoom effect on loading page*/
+
+    animation-name: plane-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/*Css Animation*/
+
+@keyframes plane-zoom {
+    from {
+        transform: scale(1.1);
+
+    }
+
+    to {
+        transform: scale(1);
+
+    }
+}
 
