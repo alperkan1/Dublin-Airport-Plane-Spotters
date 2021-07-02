@@ -163,6 +163,7 @@ footer {
     height: 500px;
     width: 100%;
     background: url("../images/plane.jpg") no-repeat center center;
+    background-size: cover;
 
     /*plane image will zoom*/
 
@@ -216,6 +217,12 @@ footer {
 
 /*take off and lading schedule*/
 
+#heading-schedule{
+   margin-bottom: 30px;
+    text-align: center;
+    
+}
+
 #times {
     background-image: url("../images/times.JPG");
 
@@ -249,3 +256,84 @@ footer {
     margin-top: 2px;
 }
 /*round pick for ethics*/
+
+#club-ethics {
+    height: 600px;
+    margin: 50px;
+}
+
+
+#left-side {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+
+}
+
+#right-side {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+
+}
+
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+
+
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    margin-top: 5px 0;
+    width: 100%;
+}
+
+.left-side-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-side-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-side-heading h2 {
+    text-align: right;
+}
+
+.right-side-heading p {
+    text-align: right;
+}
+
+#hello {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 200%;
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#circle-cover {
+    background: url("../images/round\ plane.jpg") no-repeat center center;
+    height: 100%;
+    background-size: cover;
+    border-radius: 50%;
+}
