@@ -208,6 +208,7 @@ footer {
 #map-center {
     width: 100%;
     text-align: center;
+    font-size: 110%;
     
 }
 
@@ -220,6 +221,7 @@ footer {
 #heading-schedule{
    margin-bottom: 30px;
     text-align: center;
+    font-size: 110%;
     
 }
 
@@ -258,8 +260,8 @@ footer {
 /*round pick for ethics*/
 
 #club-ethics {
-    height: 600px;
-    margin: 50px;
+    height: 500px;
+    margin-top: 50px;
 }
 
 
