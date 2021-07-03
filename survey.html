@@ -33,17 +33,28 @@
     </header>
     <section>
         <form action="/assets/survey.php" method="GET">
-            <label for="fname"><H3>First name:</h3></label>
-            <input type="text" id="fname" name="fname">
-            <label for="lname"><h3>Last name:</h3></label>
-            <input type="text" id="lname" name="lname">
-            <label for="email"><h3>Email:</h3></label>
-            <input type="email" id="email" name="email">
-            <input type="submit" value="Submit">
+            <fieldset>
+                <label for="fname">First name:</label>
+                <input type="text" id="fname" name="fname" value="Name" required>
+                <label for="lname">Last name:</label>
+                <input type="text" id="lname" name="lname" value="Surname" required>
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" value="E-mail" required>
+            </fieldset>
+
+            <label for="question1">
+                <h3>BEST LOACTION FOR PLANE SPOTTERS AT DUBLIN AIRPORT ?</h3>
+            </label>
+            <select id="question1" name="question1"  required>
+                <option value="airport-view" >AIRPORT VIEW </option>
+                <option value="blue-carpark" >BLUE CARPARK </option>
+                
+            </select>
+
             <input type="reset" value="Reset">
         </form>
 
-       
+
 
     </section>
     <section>
