@@ -31,82 +31,87 @@
         </nav>
 
     </header>
-    <section>
-        <form action="/assets/survey.php" method="GET">
-            <fieldset>
-                <label for="fname">First name:</label>
-                <input type="text" id="fname" name="fname" value="Name" required>
-                <label for="lname">Last name:</label>
-                <input type="text" id="lname" name="lname" value="Surname" required>
-                <label for="email">E-mail:</label>
-                <input type="email" id="email" name="email" value="E-mail" required>
-            </fieldset>
+    <!--images-->
+    <section id="plane-outer" class="plane-zoom">
+        <div id="plane-survey"></div>
 
-            <label for="question1">
-                <h3>BEST LOACTION FOR PLANE SPOTTERS AT DUBLIN AIRPORT ?</h3>
-            </label>
-            <select id="question1" name="question1"  required>
-                <option value="airport-view" >AIRPORT VIEW </option>
-                <option value="blue-carpark" >BLUE CARPARK </option>
-                
-            </select>
+<!--survey part-->
+        <section>
+            <form action="/assets/survey.php" method="GET">
+                <fieldset>
+                    <label for="fname">First name:</label>
+                    <input type="text" id="fname" name="fname" value="Name" required>
+                    <label for="lname">Last name:</label>
+                    <input type="text" id="lname" name="lname" value="Surname" required>
+                    <label for="email">E-mail:</label>
+                    <input type="email" id="email" name="email" value="E-mail" required>
+                </fieldset>
 
-            <input type="reset" value="Reset">
-        </form>
+                <label for="question1">
+                    <h3>BEST LOACTION FOR PLANE SPOTTERS AT DUBLIN AIRPORT ?</h3>
+                </label>
+                <select id="question1" name="question1" required>
+                    <option value="airport-view">AIRPORT VIEW </option>
+                    <option value="blue-carpark">BLUE CARPARK </option>
 
+                </select>
 
-
-    </section>
-    <section>
-        <div>
-            q1
-        </div>
-        <div>
-            q2
-
-        </div>
-        <div>
-            q3
-        </div>
-        <div>
-            q4
-        </div>
-        submit reset
+                <input type="reset" value="Reset">
+            </form>
 
 
-    </section>
 
-    <footer>
-        <ul class="social">
-            <li>
-                <a href="https://www.facebook.com/" target="_blank" rel="noopener"
-                    aria-label="Visit our facebook page (in a new page)"><i class="fab fa-facebook-square"></i></a>
-            </li>
-            <li>
-                <a href="https://www.instagram.com/" target="_blank" rel="noopener"
-                    aria-label="Visit our instagram page (in a new page)"><i class="fab fa-instagram"></i></a>
-            </li>
-            <li>
-                <a href="https://www.youtube.com/" target="_blank" rel="noopener"
-                    aria-label="Visit our youtube page (in a new page)"><i class="fab fa-youtube"></i></a>
-            </li>
-            <li>
+        </section>
+        <section>
+            <div>
+                q1
+            </div>
+            <div>
+                q2
 
-                <a href="https://twitter.com/?lang=en" target="_blank" rel="noopener"
-                    aria-label="Visit our twitter page (in a new page)"><i class="fab fa-twitter-square"></i></a>
-            </li>
-        </ul>
+            </div>
+            <div>
+                q3
+            </div>
+            <div>
+                q4
+            </div>
+            submit reset
 
-        <div id="footer">
 
-            <h2>© 2021 PaneSpotters, Inc.</h2>
-            <p>Tel: 01 5257656 <br> Address: Dublin Airport Terminal 1 Office 202, <br>Co. Dublin</p>
+        </section>
 
-        </div>
+        <footer>
+            <ul class="social">
+                <li>
+                    <a href="https://www.facebook.com/" target="_blank" rel="noopener"
+                        aria-label="Visit our facebook page (in a new page)"><i class="fab fa-facebook-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/" target="_blank" rel="noopener"
+                        aria-label="Visit our instagram page (in a new page)"><i class="fab fa-instagram"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/" target="_blank" rel="noopener"
+                        aria-label="Visit our youtube page (in a new page)"><i class="fab fa-youtube"></i></a>
+                </li>
+                <li>
 
-    </footer>
-    <!--font awesome script-->
-    <script src="https://kit.fontawesome.com/368cd4e45e.js" crossorigin="anonymous"></script>
+                    <a href="https://twitter.com/?lang=en" target="_blank" rel="noopener"
+                        aria-label="Visit our twitter page (in a new page)"><i class="fab fa-twitter-square"></i></a>
+                </li>
+            </ul>
+
+            <div id="footer">
+
+                <h2>© 2021 PaneSpotters, Inc.</h2>
+                <p>Tel: 01 5257656 <br> Address: Dublin Airport Terminal 1 Office 202, <br>Co. Dublin</p>
+
+            </div>
+
+        </footer>
+        <!--font awesome script-->
+        <script src="https://kit.fontawesome.com/368cd4e45e.js" crossorigin="anonymous"></script>
 
 </body>
 

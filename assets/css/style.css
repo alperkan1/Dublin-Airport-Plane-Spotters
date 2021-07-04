@@ -339,3 +339,34 @@ hr {
     background-size: cover;
     border-radius: 50%;
 }
+/*survey image*/
+#plane-survey {
+    height: 500px;
+    width: 100%;
+    background: url("../images/survey.jpg") no-repeat center center;
+    background-size: cover;
+
+    /*plane image will zoom*/
+
+    animation-name: plane-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+#plane-text-survey {
+    font-size: 100%;
+    font-family: Open+Sans, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 300px;
+    height: 165px;
+
+    padding-top: 20px;
+    padding-left: 10px;
+
+    background-color: rgba(53, 49, 48, 0.7);
+    bottom: 5px;
+
+    left: 40px;
+
+    position: absolute;
+}
