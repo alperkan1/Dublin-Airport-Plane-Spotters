@@ -358,3 +358,25 @@ hr {
     overflow: hidden;
     position: relative;
 }
+
+#fname{
+    font-size: 110%;
+    border: #252525 1px solid;
+    background-color: #ccc;
+    
+}
+#lname{
+    font-size: 110%;
+    border: #252525 1px solid;
+    background-color: #ccc;
+    
+}
+#email{
+    font-size: 110%;
+    border: #252525 1px solid;
+    background-color: #ccc;
+    
+      
+}
+
+
