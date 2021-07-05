@@ -39,18 +39,18 @@
     <!--survey part-->
     <section>
         <h1 id="hello">SURVEY</h1>
-        <form action="/assets/survey.php" method="GET">
+        <form action="/assets/survey.php" id="form-survey">
             <div id="survey-div">
                 <label for="fname">
-                    <h3>First Name:</h3>
+                    <h3>FIRST NAME:</h3>
                 </label>
                 <input type="text" id="fname" name="fname" placeholder="First Name" required>
                 <label for="lname">
-                    <h3>Last name:</h3>
+                    <h3>LAST NAME:</h3>
                 </label>
                 <input type="text" id="lname" name="lname"  placeholder="Last Name" required>
                 <label for="email">
-                    <h3>E-mail:</h3>
+                    <h3>E-MAIL:</h3>
                 </label>
                 <input type="email" id="email" name="email"  placeholder="Your Email" required>
             </div>
@@ -79,16 +79,16 @@
 
             <!--question3-->
 
-            <div>
+            <div id="social-survey">
                 <h3>WHAT SOCIAL MEDIA ACCOUNTS DO YOU USE TO SHARE YOUR IMAGES ?</h3>
                 <input type="checkbox" name="instagram1" value="instagram">
-                <label for="social-media1"> Instagram</label>
+                <label for="social-media1"> Instagram <i class="fab fa-instagram"></i></label>
                 <input type="checkbox" name="facebook2" value="facebook">
-                <label for="social-media2"> Facebook</label>
+                <label for="social-media2"> Facebook <i class="fab fa-facebook-square"></i></label>
                 <input type="checkbox" name="twitter3" value="twitter">
-                <label for="social-media3"> Twitter</label>
+                <label for="social-media3"> Twitter <i class="fab fa-twitter-square"></i></label>
                 <input type="checkbox" name="youtube4" value="youtube">
-                <label for="social-media4"> Youtube</label>
+                <label for="social-media4"> Youtube <i class="fab fa-youtube"></i></label>
 
             </div>
             <!--question4-->
@@ -100,7 +100,7 @@
                  <label for="No">No</label>
             </div>
 
-            <input type="button" onclick="formSubmit()" value="Submit">
+            <input type="submit" value="Submit">
             <input type="reset" value="Reset">
         </form>
 
