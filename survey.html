@@ -38,28 +38,35 @@
 
     <!--survey part-->
     <section>
-        <h1 id="hello">SURVEY</h1><br>
+        <h1 id="hello">SURVEY</h1>
         <form action="/assets/survey.php" method="GET">
-            <div id="inline-name">
-                <label for="fname"><h3>First Name:</h3></label>
+            <div id="survey-div">
+                <label for="fname">
+                    <h3>First Name:</h3>
+                </label>
                 <input type="text" id="fname" name="fname" value="Name" placeholder="FirstS Name" required>
-                <label for="lname"><h3>Last name:</h3></label>
+                <label for="lname">
+                    <h3>Last name:</h3>
+                </label>
                 <input type="text" id="lname" name="lname" value="Surname" placeholder="Last Name" required>
-                <label for="email"><h3>E-mail:</h3></label>
+                <label for="email">
+                    <h3>E-mail:</h3>
+                </label>
                 <input type="email" id="email" name="email" value="E-mail" placeholder="Your Email" required>
             </div>
-
+            <!--question1-->
             <div>
                 <label for="cars">
-                    <h2>SELECT THE BEST LOACTION FOR PLANE SPOTTERS AT DUBLIN AIRPORT:</h2>
-                </label><BR>
+                    <h3>SELECT THE BEST LOACTION FOR PLANE SPOTTERS AT DUBLIN AIRPORT:</h3>
+                </label>
                 <select name="cars" id="cars" form="carform">
                     <option value="airport-view">AIRPORT VIEW </option>
                     <option value="blue-carpark">BLUE CARPARK</option>
                 </select>
             </div>
+            <!--question2-->
             <div>
-                <h2>HOW MANY YEARS HAVE YOU BEEN A PLANE SPOTTER?</h2><br>
+                <h3>HOW MANY YEARS HAVE YOU BEEN A PLANE SPOTTER?</h3>
                 <input type="radio" id="1-5" name="how-many" value="1-5">
                   <label for="1-5">1-5</label>
                   <input type="radio" id="6-10" name="how-many" value="6-10">
@@ -69,8 +76,11 @@
                 <input type="radio" id="16-or-more" name="how-many" value="16-or-more">
                   <label for="16-or-more">16-Or More</label>
             </div>
+
+            <!--question3-->
+
             <div>
-                <h2>WHAT SOCIAL MEDIA ACCOUNTS DO YOU USE TO SHARE YOUR IMAGES ?</h2>
+                <h3>WHAT SOCIAL MEDIA ACCOUNTS DO YOU USE TO SHARE YOUR IMAGES ?</h3>
                 <input type="checkbox" name="instagram1" value="instagram">
                 <label for="social-media1"> Instagram</label>
                 <input type="checkbox" name="facebook2" value="facebook">
@@ -79,17 +89,18 @@
                 <label for="social-media3"> Twitter</label>
                 <input type="checkbox" name="youtube4" value="youtube">
                 <label for="social-media4"> Youtube</label>
-                
+
             </div>
+            <!--question4-->
             <div>
-                <h2>DO YOU SELL YOUR IMAGES?</h2>
+                <h3>DO YOU SELL YOUR IMAGES?</h3>
                 <input type="checkbox" name="sell-yes" value="yes">
                 <label for="sell-images-yes"> Yes</label>
                 <input type="checkbox" name="sell-no" value="no">
                 <label for="sell-images-no"> No</label>
-            </div>    
-            <input type="submit" value="Submit">
+            </div>
 
+            <input type="submit" value="Submit">
             <input type="reset" value="Reset">
         </form>
 

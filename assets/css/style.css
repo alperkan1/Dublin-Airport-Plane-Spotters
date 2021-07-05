@@ -359,6 +359,11 @@ hr {
     position: relative;
 }
 
+#survey-div label{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
 #fname{
     font-size: 110%;
     border: #252525 1px solid;
@@ -374,9 +379,10 @@ hr {
 #email{
     font-size: 110%;
     border: #252525 1px solid;
-    background-color: #ccc;
-    
+    background-color: #ccc;   
       
 }
+
+
 
 
