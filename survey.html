@@ -38,7 +38,7 @@
 
     <!--survey part-->
     <section>
-        <h1 id="survey-header">SURVEY</h1>
+        <h1 id="survey-header">SURVEY</h1><br>
         <form action="/assets/survey.php" method="GET">
             <div>
                 <label for="fname">First name:</label>
@@ -50,19 +50,27 @@
             </div>
 
             <div>
-                <label for="cars">SELECT THE BEST LOACTION FOR PLANE SPOTTERS AT DUBLIN AIRPORT:</label><BR></BR>
+                <label for="cars">
+                    <h2>SELECT THE BEST LOACTION FOR PLANE SPOTTERS AT DUBLIN AIRPORT:</h2>
+                </label><BR>
                 <select name="cars" id="cars" form="carform">
                     <option value="airport-view">AIRPORT VIEW </option>
                     <option value="blue-carpark">BLUE CARPARK</option>
                 </select>
             </div>
             <div>
-                <input type="radio" id="years" name="how-many" value="HTML">
-                  <label for="html">HTML</label><br>
-                  <input type="radio" id="css" name="fav_language" value="CSS">
-                  <label for="css">CSS</label><br>
-                  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
-                  <label for="javascript">JavaScript</label>
+                <h2>HOW MANY YEARS HAVE YOU BEEN A PLANE SPOTTER?</h2><br>
+                <input type="radio" id="1-5" name="how-many" value="1-5">
+                  <label for="1-5">1-5</label>
+                  <input type="radio" id="6-10" name="how-many" value="6-10">
+                  <label for="6-10">6-10</label>
+                  <input type="radio" id="11-15" name="how-many" value="11-15">
+                  <label for="11-15">11-15</label>
+                  <input type="radio" id="16-or-more" name="how-many" value="16-or-more">
+                  <label for="16-or-more">16-Or More</label>
+            </div>
+            <div>
+                
             </div>
         </form>
 
