@@ -34,105 +34,63 @@
     <!--images-->
     <section id="plane-outer" class="plane-zoom">
         <div id="plane-survey"></div>
+    </section>
 
-        <!--survey part-->
-        <section>
-            <form action="/assets/survey.php" method="GET">
-                <fieldset>
-                    <label for="fname">First name:</label>
-                    <input type="text" id="fname" name="fname" value="Name" placeholder="Firts Name" required>
-                    <label for="lname">Last name:</label>
-                    <input type="text" id="lname" name="lname" value="Surname" placeholder="Last Name" required>
-                    <label for="email">E-mail:</label>
-                    <input type="email" id="email" name="email" value="E-mail" placeholder="Your Email" required>
-                </fieldset>
+    <!--survey part-->
+    <section>
+        <h1 id="survey-header">SURVEY</h1>
+        <form action="/assets/survey.php" method="GET">
 
-                <!--question 1-->
+            <label for="fname">First name:</label>
+            <input type="text" id="fname" name="fname" value="Name" placeholder="Firts Name" required>
+            <label for="lname">Last name:</label>
+            <input type="text" id="lname" name="lname" value="Surname" placeholder="Last Name" required>
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" name="email" value="E-mail" placeholder="Your Email" required>
 
-                <label for="question1">
-                    <h3>BEST LOACTION FOR PLANE SPOTTERS AT DUBLIN AIRPORT ?</h3>
-                </label>
-                <select id="question1" name="question1" required>
-                    <option value="airport-view">AIRPORT VIEW </option>
-                    <option value="blue-carpark">BLUE CARPARK </option>
-                </select>
-
-                <!--question 2-->
-
-                <label for="question2">
-                    <h3>BEST LOACTION FOR PLANE SPOTTERS AT DUBLIN AIRPORT ?</h3>
-                </label>
-                <select id="question2" name="question2" required>
-                    <option value="airport-view">AIRPORT VIEW </option>
-                    <option value="blue-carpark">BLUE CARPARK </option>
-                </select>
-
-                <!--question 3-->
-                <label for="question3">
-                    <h3>BEST LOACTION FOR PLANE SPOTTERS AT DUBLIN AIRPORT ?</h3>
-                </label>
-                <select id="question3" name="question3" required>
-                    <option value="airport-view">AIRPORT VIEW </option>
-                    <option value="blue-carpark">BLUE CARPARK </option>
-                </select>
-
-                <!--question 4-->
-                <label for="question4">
-                    <h3>BEST LOACTION FOR PLANE SPOTTERS AT DUBLIN AIRPORT ?</h3>
-                </label>
-                <select id="question4" name="question4" required>
-                    <option value="airport-view">AIRPORT VIEW </option>
-                    <option value="blue-carpark">BLUE CARPARK </option>
-
-                </select>
-
-                <!--question 5-->
-                <label for="question5">
-                    <h3>BEST LOACTION FOR PLANE SPOTTERS AT DUBLIN AIRPORT ?</h3>
-                </label>
-                <select id="question5" name="question5" required>
-                    <option value="airport-view">AIRPORT VIEW </option>
-                    <option value="blue-carpark">BLUE CARPARK </option>
-                </select>
-
-                <input type="reset" value="Reset">
-            </form>
+        </form>
 
 
 
-        </section>
+    </section>
+    <label for="cars">SELECT THE BEST LOACTION FOR PLANE SPOTTERS AT DUBLIN AIRPORT:</label><BR></BR>
+    <select name="cars" id="cars" form="carform">
+        <option value="airport-view">AIRPORT VIEW </option>
+        <option value="blue-carpark">BLUE CARPARK</option>
+        
+    </select>
 
-        <footer>
-            <ul class="social">
-                <li>
-                    <a href="https://www.facebook.com/" target="_blank" rel="noopener"
-                        aria-label="Visit our facebook page (in a new page)"><i class="fab fa-facebook-square"></i></a>
-                </li>
-                <li>
-                    <a href="https://www.instagram.com/" target="_blank" rel="noopener"
-                        aria-label="Visit our instagram page (in a new page)"><i class="fab fa-instagram"></i></a>
-                </li>
-                <li>
-                    <a href="https://www.youtube.com/" target="_blank" rel="noopener"
-                        aria-label="Visit our youtube page (in a new page)"><i class="fab fa-youtube"></i></a>
-                </li>
-                <li>
+    <footer>
+        <ul class="social">
+            <li>
+                <a href="https://www.facebook.com/" target="_blank" rel="noopener"
+                    aria-label="Visit our facebook page (in a new page)"><i class="fab fa-facebook-square"></i></a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/" target="_blank" rel="noopener"
+                    aria-label="Visit our instagram page (in a new page)"><i class="fab fa-instagram"></i></a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/" target="_blank" rel="noopener"
+                    aria-label="Visit our youtube page (in a new page)"><i class="fab fa-youtube"></i></a>
+            </li>
+            <li>
 
-                    <a href="https://twitter.com/?lang=en" target="_blank" rel="noopener"
-                        aria-label="Visit our twitter page (in a new page)"><i class="fab fa-twitter-square"></i></a>
-                </li>
-            </ul>
+                <a href="https://twitter.com/?lang=en" target="_blank" rel="noopener"
+                    aria-label="Visit our twitter page (in a new page)"><i class="fab fa-twitter-square"></i></a>
+            </li>
+        </ul>
 
-            <div id="footer">
+        <div id="footer">
 
-                <h2>© 2021 PaneSpotters, Inc.</h2>
-                <p>Tel: 01 5257656 <br> Address: Dublin Airport Terminal 1 Office 202, <br>Co. Dublin</p>
+            <h2>© 2021 PaneSpotters, Inc.</h2>
+            <p>Tel: 01 5257656 <br> Address: Dublin Airport Terminal 1 Office 202, <br>Co. Dublin</p>
 
-            </div>
+        </div>
 
-        </footer>
-        <!--font awesome script-->
-        <script src="https://kit.fontawesome.com/368cd4e45e.js" crossorigin="anonymous"></script>
+    </footer>
+    <!--font awesome script-->
+    <script src="https://kit.fontawesome.com/368cd4e45e.js" crossorigin="anonymous"></script>
 
 </body>
 
