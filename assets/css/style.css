@@ -485,21 +485,20 @@ input[type=reset] {
     hr {
         display: none;
     }
-   
-    
+
+
 }
 
 @media screen and (max-width: 800px) {
-    
 
-    
-    
+
+
+
 
     #plane-text {
         text-align: center;
         width: auto;
         left: 0
-        
     }
 
     #plane-text h3 {
@@ -529,17 +528,23 @@ input[type=reset] {
         text-align: center;
         padding: 0 20px;
     }
+
     #form-survey {
         width: auto;
         text-align: left;
     }
-    #fname, #lname, #email {
+
+    #fname,
+    #lname,
+    #email {
         width: auto;
-        display:list-item;
-        margin-bottom: 40px;}
-        #survey-div label {
-margin: 0;
-        }
+        display: list-item;
+        margin-bottom: 40px;
+    }
+
+    #survey-div label {
+        margin: 0;
+    }
 }
 
 /* For medium screen sizes from 500px wide and down */
@@ -558,6 +563,7 @@ margin: 0;
         line-height: 25px;
         font-size: 75%;
         margin-top: 0;
+        width: auto;
 
     }
 
@@ -569,7 +575,7 @@ margin: 0;
 
     #plane-text h3 {
         font-size: 75%;
-        text-align:center;
+        text-align: center;
     }
 
     #club-ethics {
@@ -594,40 +600,28 @@ margin: 0;
         text-align: center;
         padding: 0 20px;
     }
-    #location{
+
+    #location {
         width: auto;
         text-align: left;
-    } 
- 
-     
-     
- 
-     #radio h3 {
-         
-         text-align: left;
-         width: auto;
-         padding-right: 10px;
-         
-         
-     }   
+    }
 
-     
-     
-     input label{
-         
-       
-         margin: 10px 0;
-         display: block;
-     
-     
-     
+    #radio h3 {
 
-     }
-     
-     
-     
-     
+        text-align: left;
+        width: auto;
+        padding-right: 10px;
+    }
 
-     
-         
+    #radio {
+        width: fit-content;
+    }
+
+
+
+
+
+
+
+
 }
