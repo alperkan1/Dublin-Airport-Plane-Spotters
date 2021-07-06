@@ -367,7 +367,9 @@ hr {
 #survey-div label {
     display: inline-block;
     margin-bottom: 50px;
+    
 }
+
 
 #fname {
     font-size: 110%;
@@ -387,6 +389,7 @@ hr {
     font-size: 110%;
     border: none;
     background-color: #ccc;
+    display: inline;
 
 
 }
@@ -489,7 +492,7 @@ input[type=reset] {
 
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1009px) {
 
 
 
@@ -545,6 +548,7 @@ input[type=reset] {
     #survey-div label {
         margin: 0;
     }
+    
 }
 
 /* For medium screen sizes from 500px wide and down */
@@ -612,10 +616,13 @@ input[type=reset] {
         width: auto;
         padding-right: 10px;
     }
+    
 
-    #radio {
-        width: fit-content;
+    #radio span{
+        display: block;
+        width: auto;
     }
+    
 
 
 
