@@ -551,8 +551,8 @@ input[type=reset] {
     
 }
 
-/* For medium screen sizes from 600px wide and down */
-@media screen and (max-width: 600px) {
+/* For medium screen sizes from 700px wide and down */
+@media screen and (max-width: 700px) {
     #logo {
         font-size: 80%;
         text-align: center;
