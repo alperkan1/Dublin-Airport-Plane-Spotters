@@ -631,6 +631,9 @@ input[type=reset] {
         font-size: 75%;
 
     }
+    #footer p {
+        width: auto;
+    }
     
 
 
