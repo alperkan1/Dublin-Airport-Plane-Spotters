@@ -627,6 +627,11 @@ input[type=reset] {
         display: block;
         width: auto;   
     }
+    #footer  {
+        font-size: 75%;
+
+    }
+    
 
 
 
