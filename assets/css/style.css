@@ -152,7 +152,7 @@ footer {
 
 
 #plane-outer {
-    height: 500px;
+    height: 400px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -168,8 +168,8 @@ footer {
 #plane-image {
     height: 500px;
     width: 100%;
-    background: url("../images/plane.jpg") no-repeat center center;
-    background-size: cover;
+    background: url("../images/plane\ photo.JPG") no-repeat center center;
+    background-size:cover;
 
     /*plane image will zoom*/
 
