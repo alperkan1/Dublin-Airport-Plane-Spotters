@@ -220,9 +220,10 @@ footer {
 /*take off and lading schedule*/
 
 #heading-schedule {
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     text-align: center;
     font-size: 110%;
+    width: 100%;
 
 }
 
@@ -491,7 +492,7 @@ input[type=reset] {
 
 
 }
-
+/* For medium screen sizes from 1009px wide and down */
 @media screen and (max-width: 1009px) {
 
 
