@@ -550,26 +550,30 @@ input[type=reset] {
     }
     
 }
-
-/* For medium screen sizes from 700px wide and down */
-@media screen and (max-width: 700px) {
+/* For medium screen sizes from 730px wide and down */
+@media screen and (max-width: 730px) {
     #logo {
         font-size: 80%;
         text-align: center;
-        margin-left: auto;
+        width: 100%;
+        margin: 0;
     }
 
     #menu {
         clear: left;
         float: left;
-        margin-left: 75px;
+        margin-left: 5px;
         margin-bottom: 20px;
         line-height: 25px;
         font-size: 75%;
-        margin-top: 0;
+        margin-top: 20px;
         width: auto;
 
     }
+    }
+/* For medium screen sizes from 700px wide and down */
+@media screen and (max-width: 700px) {
+    
 
     #plane-text {
         text-align: center;
