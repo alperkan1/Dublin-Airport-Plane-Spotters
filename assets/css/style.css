@@ -493,6 +493,7 @@ input[type=reset] {
 
 
 }
+  
 /* For medium screen sizes from 1009px wide and down */
 @media screen and (max-width: 1009px) {
 
@@ -524,7 +525,7 @@ input[type=reset] {
 
     .left-side-heading h2,
     .right-side-heading h2 {
-        width: 100%;
+        width: auto;
         text-align: center;
     }
 
