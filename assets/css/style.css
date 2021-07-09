@@ -222,7 +222,7 @@ footer {
     text-align: center;
 }
 #map {
-    width: 100%;
+    width: 50%;
 }
 
 /*take off and lading schedule*/
@@ -232,14 +232,14 @@ footer {
     margin: 0;
     clear: both;
     overflow: hidden;
-    width: 50%;
+    width: 100%;
 }
 
 #heading-schedule {
     margin-bottom: 40px;
     text-align: center;
     font-size: 110%;
-    width: 100%;
+    width: 50%;
     margin-top: 20px;
     clear: right;
 
