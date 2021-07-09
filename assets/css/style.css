@@ -638,6 +638,16 @@ input[type=reset] {
          font-size: 60%;
  }
  }
+     /* For medium screen sizes from 300px wide and down */
+@media screen and (max-width: 300px) {
+    #menu{
+         padding-right: 5%;
+         font-size: 50%;
+         }
+         #logo{
+             font-size: 50%;
+         }
+ }
 /* For medium screen sizes from 700px wide and down */
 @media screen and (max-width: 700px) {
 
