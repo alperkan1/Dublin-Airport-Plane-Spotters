@@ -490,6 +490,7 @@ input[type=reset] {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
+        font-size:100%;
     }
 
     #plane-image {
@@ -529,6 +530,20 @@ input[type=reset] {
     hr {
         display: none;
     }
+#flex1 {
+    display: inline-block;
+       
+}
+
+#times {
+    width: 100%;
+}
+#map-center h2 {
+    font-size: 150%;
+}
+#heading-schedule {
+    font-size:150%;
+}
 
 
 }
@@ -547,7 +562,7 @@ input[type=reset] {
     }
 
     #plane-text h3 {
-        font-size: 75%;
+        
         text-align: center;
     }
 
