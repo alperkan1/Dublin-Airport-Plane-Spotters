@@ -248,7 +248,7 @@ footer {
     margin: 0;
     clear: both;
     overflow: hidden;
-    width: 100vw;
+    width: 100%;
 }
 
 #flex1 {
@@ -608,6 +608,26 @@ input[type=reset] {
 
 }
 
+
+
+/* For medium screen sizes from 760px wide and down */
+@media screen and (max-width: 760px) {
+
+
+    #logo {
+        font-size: 80%;
+        text-align: center;
+        width: 100%;
+        margin: 0;
+    }
+
+    #menu {
+       clear: both;
+       
+       padding-right: 50%;
+
+    }
+}
 /* For medium screen sizes from 730px wide and down */
 @media screen and (max-width: 730px) {
 
@@ -620,9 +640,7 @@ input[type=reset] {
     }
 
     #menu {
-        clear: left;
-        float: left;
-        margin-left: 5px;
+        
         margin-bottom: 20px;
         line-height: 25px;
         font-size: 75%;
@@ -632,6 +650,7 @@ input[type=reset] {
     }
 }
 
+ 
 /* For medium screen sizes from 700px wide and down */
 @media screen and (max-width: 700px) {
 
@@ -697,7 +716,28 @@ input[type=reset] {
         width: auto;
     }
 }
+/* For medium screen sizes from 690px wide and down */
+@media screen and (max-width: 690px) {
+    #menu{
+         padding-right: 30%;
+         font-size: 70%;
+ }
+ }
+ /* For medium screen sizes from 650px wide and down */
+ @media screen and (max-width: 650px) {
+     #menu{
+          padding-right: 30%;
+          font-size: 70%;
+  }
+  }
 
+/* For medium screen sizes from 630px wide and down */
+@media screen and (max-width: 630px) {
+    #menu{
+         padding-right: 27%;
+         font-size: 70%;
+ }
+ }
 /* For medium screen sizes from 510px wide and down */
 @media screen and (max-width: 510px) {
     #footer h2 {
@@ -711,13 +751,44 @@ input[type=reset] {
         width: 60px;
         margin-left: 4px;
     }
-}
 
-/* For medium screen sizes from 510px wide and down */
-@media screen and (max-width: 510px) {
     #circle-container {
         width: 250px;
         height: 250px;
         padding: 15px;
     }
 }
+  /* For medium screen sizes from 500px wide and down */
+  @media screen and (max-width: 500px) {
+    #menu{
+         padding-right: 25%;
+         font-size: 70%;
+ }
+ }
+  /* For medium screen sizes from 450px wide and down */
+  @media screen and (max-width: 450px) {
+    #menu{
+         padding-right: 15%;
+         font-size: 70%;
+          }
+          #logo{
+              font-size: 70%;
+          }
+ }
+   /* For medium screen sizes from 390px wide and down */
+   @media screen and (max-width: 390px) {
+    #menu{
+         padding-right: 10%;
+         font-size: 60%;
+ }
+ }
+     /* For medium screen sizes from 300px wide and down */
+     @media screen and (max-width: 300px) {
+        #menu{
+             padding-right: 5%;
+             font-size: 50%;
+             }
+             #logo{
+                 font-size: 50%;
+             }
+     }
