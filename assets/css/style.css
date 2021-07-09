@@ -213,38 +213,44 @@ footer {
 /* Map */
 
 
+
+
+
 #map-center {
-    width: 100%;
     margin: 0;
     clear: both;
     overflow: hidden;
-    margin: 0;
-    
-}
-#map-center h2{
-    width: 50%;
-    margin: 0;
+    text-align: center;
+    flex-basis: 50%;
 
 }
-#map {
-    width: 50%;
-}
+
+
+/* #map {
+    width: 100%;
+} */
 
 /*take off and lading schedule*/
 
 #head {
-    
     margin: 0;
     clear: both;
     overflow: hidden;
+    width: 100vw;
+}
+
+#flex1 {
     width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 #heading-schedule {
     margin-bottom: 40px;
     text-align: center;
     font-size: 110%;
-    width: 50%;
     margin-top: 20px;
     clear: right;
 
@@ -252,14 +258,11 @@ footer {
 
 #times {
     background-image: url("../images/times.JPG");
-    clear: both;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    width: 50%;
     overflow: hidden;
     margin: 0;
-
 }
 
 #times div {
