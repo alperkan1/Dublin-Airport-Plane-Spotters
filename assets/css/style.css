@@ -219,7 +219,12 @@ footer {
     clear: both;
     overflow: hidden;
     margin: 0;
-    text-align: center;
+    
+}
+#map-center h2{
+    width: 50%;
+    margin: 0;
+
 }
 #map {
     width: 50%;
