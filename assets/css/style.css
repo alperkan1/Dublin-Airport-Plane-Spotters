@@ -129,13 +129,12 @@ footer {
 /*gallery*/
 
 #photos {
-    margin-top: 30px;
     clear: both;
     line-height: 15px;
     column-count: 3;
     column-gap: 2%;
-    margin-left: 10px;
-    margin-right: 20px;
+    margin: 30px auto;
+    width: 60%;
 
 }
 
