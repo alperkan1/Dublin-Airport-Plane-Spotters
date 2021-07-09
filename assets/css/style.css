@@ -611,8 +611,22 @@ input[type=reset] {
 
 /* For medium screen sizes from 760px wide and down */
 @media screen and (max-width: 760px) {
-
-
+    #photos {
+        clear: both;
+        line-height: 15px;
+        column-count: 1;
+        column-gap: 4px;
+        margin: 30px auto;
+        width: 70%;
+    
+    }
+    #photos>img {
+        width: 100%;
+        border-style: inset;
+        border-width: thick;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
     #logo {
         font-size: 80%;
         text-align: center;
