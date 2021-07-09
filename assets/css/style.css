@@ -410,6 +410,10 @@ hr {
 
 }
 
+#break{
+    margin-left: 60px;
+}
+
 
 #fname {
     font-size: 110%;
