@@ -166,7 +166,7 @@ footer {
     height: 500px;
     width: 100%;
     background: url("../images/plane\ photo.JPG") no-repeat center center;
-    background-size:cover;
+    background-size: cover;
 
     /*plane image will zoom*/
 
@@ -207,20 +207,33 @@ footer {
     position: absolute;
 }
 
+
+
+
 /* Map */
 
+
 #map-center {
-    width: 100%;
+    width: 50%;
+    margin: 0;
+    clear: both;
+    overflow: hidden;
+    margin: 0;
     text-align: center;
-    font-size: 110%;
-
 }
-
-#map-center h2 {
-    margin: 30px;
+#map {
+    width: 100%;
 }
 
 /*take off and lading schedule*/
+
+#head {
+    
+    margin: 0;
+    clear: both;
+    overflow: hidden;
+    width: 50%;
+}
 
 #heading-schedule {
     margin-bottom: 40px;
@@ -228,17 +241,20 @@ footer {
     font-size: 110%;
     width: 100%;
     margin-top: 20px;
+    clear: right;
 
 }
 
 #times {
     background-image: url("../images/times.JPG");
-
+    clear: both;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     width: 100%;
     overflow: hidden;
+    margin: 0;
+
 }
 
 #times div {
@@ -334,7 +350,7 @@ hr {
     width: 300px;
     height: 300px;
     padding: 20px;
-    border-style:double;
+    border-style: double;
     border-color: silver;
     border-width: 4px;
     border-radius: 50%;
@@ -661,11 +677,12 @@ input[type=reset] {
         margin-left: 4px;
     }
 }
+
 /* For medium screen sizes from 510px wide and down */
 @media screen and (max-width: 510px) {
     #circle-container {
         width: 250px;
         height: 250px;
         padding: 15px;
-}
+    }
 }
