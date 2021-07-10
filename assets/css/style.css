@@ -487,6 +487,17 @@ hr {
 #break{
     margin-left: 60px;
 }
+#break h3{
+    
+        font-family: Oswald, sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        color: #252525;
+        margin-bottom: 20px;
+        font-size: 120%;
+        font-weight: bold;
+    
+}
 
 
 #fname {
