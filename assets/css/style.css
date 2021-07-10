@@ -472,9 +472,16 @@ hr {
 }
 
 #survey-div label {
-    display: inline-block;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #252525;
+    margin-bottom: 20px;
+    font-size: 120%;
+    font-weight: bold;
+}
+#survey-div{
     margin-bottom: 50px;
-
 }
 
 #break{
@@ -691,6 +698,7 @@ input[type=reset] {
 
     #survey-div label {
         margin: 0;
+        
     }
 
 }
