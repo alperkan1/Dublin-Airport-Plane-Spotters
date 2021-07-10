@@ -622,6 +622,9 @@ input[type=reset] {
         width: 70%;
     
     }
+    #break{
+        margin: 10px;
+    }
     #photos>img {
         width: 100%;
         border-style: inset;
