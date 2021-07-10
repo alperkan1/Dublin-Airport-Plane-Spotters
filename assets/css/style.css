@@ -6,7 +6,46 @@
     border: none;
 
 }
+#error{
+    
+        height: 500px;
+        width: 100%;
+        background: url("../images/6.jpg") no-repeat center center;
+        background-size: cover;
+}
 
+
+
+#plane-text3,
+#plane-text3 h2{
+    color: ivory;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 200%;
+}
+  
+
+#plane-text3 {
+    font-size: 100%;
+    font-family: Playfair, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 700px;
+    height: 150px;
+
+    padding-top: 20px;
+    padding-left: 10px;
+
+    background-color: rgb(53, 49, 48, 0.7);
+    bottom: 30%;
+    left: 10%;
+    position: absolute;
+    
+}
+
+
+
+/*logo and nav bar*/
 #menu,
 #logo {
     line-height: 45px;
@@ -586,12 +625,22 @@ input[type=reset] {
         left: 0
     }
 
+    #plane-text3 h3 {
+        
+        text-align: center;
+
+    }
+    #plane-text3 {
+        text-align: center;
+        width: auto;
+        left: 0
+    }
+
     #plane-text2 h3 {
         
         text-align: center;
 
     }
-
 
     #plane-text {
         text-align: center;
