@@ -895,14 +895,14 @@ input[type=reset] {
 @media screen and (max-width: 510px) {
     #footer h2 {
         font-size: 40%;
-        width: 70px;
-        margin-top: 0px;
+        width: 40%;
+        margin:0;
     }
 
     #footer p {
         font-size: 30%;
-        width: 60px;
-        margin-left: 4px;
+        width: 40%;
+        margin-left: 0px;
     }
 
     #circle-container {
