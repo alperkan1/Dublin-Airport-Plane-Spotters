@@ -544,6 +544,16 @@ hr {
     font-size: 110%;
 
 }
+#radio1 input {
+    margin-left: 40px;
+    margin: 25px;
+
+}
+
+#radio1 label {
+    font-size: 110%;
+
+}
 
 
 
@@ -822,9 +832,19 @@ input[type=reset] {
         width: auto;
         padding-right: 10px;
     }
+    #radio1 h3 {
+
+        text-align: left;
+        width: auto;
+        padding-right: 10px;
+    }
 
 
     #radio span {
+        display: block;
+        width: auto;
+    }
+    #radio1 span {
         display: block;
         width: auto;
     }
