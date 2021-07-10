@@ -832,6 +832,10 @@ input[type=reset] {
           #form-survey{
               margin-left: 20px;
           }
+          #circle-cover {
+            background: url("../images/8.jpg") no-repeat center center;
+            background-size: contain;
+          }
  }
  /* For medium screen sizes from 650px wide and down */
  @media screen and (max-width: 650px) {
