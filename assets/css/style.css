@@ -739,7 +739,13 @@ input[type=reset] {
     #menu{
          padding-right: 30%;
          font-size: 70%;
- }
+          }
+          #break{
+              margin: 0;
+          }
+          #form-survey{
+              margin-left: 20px;
+          }
  }
  /* For medium screen sizes from 650px wide and down */
  @media screen and (max-width: 650px) {
