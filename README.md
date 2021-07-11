@@ -5,8 +5,6 @@
 
 [link to live page](https://8000-plum-woodpecker-opuoy299.ws-eu11.gitpod.io/index.html)
 
-Dublin Airport Plane Spotters is to bring together the plane spotter community. Based in Dublin to communicate and share their experiences plane spotting. The site will be open to all but will target the plane spotters who would like to socialise with other pole who enjoy there hobby. Dublin Airport Plane Spotters will be a perfect place get the information of special plane movements that are arriving and departing with the best location to see the aircraft. 
-
 # Contents
 
 1. [User Experience](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#user-experience)
@@ -92,9 +90,9 @@ Dublin Airport Plane Spotters is to bring together the plane spotter community. 
 - Concise and informtive content.
 - Up to date content.
 
-## Aims
+## 2. Aims
 
-### User Aims
+### i. User Aims
 
 - Finding a community if like-minded of plane spotters in Dublin.
 - To share images of aircraft at Dublin Airport.
@@ -102,7 +100,7 @@ Dublin Airport Plane Spotters is to bring together the plane spotter community. 
 - To find the best plane spotting locations.
 - To give my feedback.
 
-### Site Creater Aims
+### ii. Site Creater Aims
 
 - To connect like minded users.
 - To create a data base of contact information and feedback.
@@ -110,11 +108,18 @@ Dublin Airport Plane Spotters is to bring together the plane spotter community. 
 - To find new locations.
 - To share one-off experiences with others.
 
-## UX
+## 3. UX
 
-### Structure and Design
+### i. Structure 
 
-## Features
+### ii. Design
+
+### iii. Font
+
+### iv. Wireframes
+
+
+## 4. Features
 
 ### Navigation Bar
 - The links to jump from page to page for easy navigation on all devices.
