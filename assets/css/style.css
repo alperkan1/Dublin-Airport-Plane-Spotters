@@ -759,6 +759,9 @@ input[type=reset] {
        padding-right: 30%;
 
     }
+    #error{
+        margin-top:40px;
+    }
 }
 /* For medium screen sizes from 730px wide and down */
 @media screen and (max-width: 730px) {
@@ -780,6 +783,9 @@ input[type=reset] {
         width: auto;
         padding-right: 30%;
 
+    }
+    #error{
+        margin-top: 20px;
     }
 }
 
