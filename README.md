@@ -6,10 +6,16 @@
 [link to live page](https://8000-plum-woodpecker-opuoy299.ws-eu11.gitpod.io/index.html)
 
 Dublin Airport Plane Spotters is to bring together the plane spotter community. Based in Dublin to communicate and share their experiences plane spotting. The site will be open to all but will target the plane spotters who would like to socialise with other pole who enjoy there hobby. Dublin Airport Plane Spotters will be a perfect place get the information of special plane movements that are arriving and departing with the best location to see the aircraft. 
-
-1. [UX](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#UX)
+1. [User Experience](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#user-experience)
+   1. [Target User](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#target-user)
+   2. [User Stories](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#user-stories)
+   3. [User Requirment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#user-requirments)
+2. [Aims](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#aims)
+   1.[User Aims] 2.[Site Creater Goals]((https://github.com/alperkan1/Dublin-Airport-Plane-spotters#user-aims)
+   2.[Site Creater Aims]((https://github.com/alperkan1/Dublin-Airport-Plane-spotters#site-creater-aims)
+3. [UX](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#UX)
    1. [Structure and Design](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#structure-and-design)
-2. [Features](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#Features)
+4. [Features](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#Features)
    1. [Navigation Bar](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#navigation-bar)
    2. [The Landing Page](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#the-landing-page)
    3. [Community Philosophy](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#community-philosophy)
@@ -18,22 +24,35 @@ Dublin Airport Plane Spotters is to bring together the plane spotter community. 
    6. [Images](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#images)
    7. [Footer](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#fotter)
    8. [Features left to implement](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#features-left-to-implement)
-3. [Desing Features](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#desing-features)
+5. [Desing Features](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#desing-features)
    1. [Colors](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#colors)
    2. [Fonts](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#fonts)
    3. [Structure](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#structure)
    4. [Wireframes](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#wireframes)
-4. [Technologies Used](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#technologies-used)
+6. [Technologies Used](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#technologies-used)
    1. [Web Technologies](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#web-echnologies)
    2. [Developer Tools](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#developer-tools)
-5. [Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#testing)
+7. [Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#testing)
    1. [Validator Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#validator-testing)
    2. [Unfixed Bugs](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#unfixed-bugs)
-6. [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
-7. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
-8. [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
-9. [Media](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#media)
+8. [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
+9. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
+10. [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
+11. [Media](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#media)
 
+## User Experience
+
+### Target User
+
+### User Stories
+
+### User Requirment
+
+## Aims
+
+### User Aims
+
+### Site Creater Aims
 
 ## UX
 
