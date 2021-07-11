@@ -56,16 +56,59 @@ Dublin Airport Plane Spotters is to bring together the plane spotter community. 
 
 ### ii. User Stories
 
--As a first time user, I want to be able to be a part of a Plane Spotting comunity at Dublin Airport.
--As a first time user, I want to be able to 
+#### First Time User 
+
+- As a first time user, I want to be able to be a part of a Plane Spotting comunity at Dublin Airport.
+- As a first time user, I want to be able to see other users photos.
+- As a first time user, I want to be able to locate the best locations for plane spotting at Dublin Airport.
+- As a first time user, I want to get the most up to date flight information.
+- As a first time user, I want to find the social media links for the the comunity.
+- As a first time user, I want to be able to give my feed back.
+- As a first time user, I want to be able to contact the society.
+
+#### Returning User
+
+- As a returing user, I want to be able to get the updated schedules for flights arriving and departing from Dublin Airport.
+- As a returing user, I want to be able to see new images from existing and new members.
+- As a returing user, I want to be able to share images.
+- As a returing user, I want to have the oportunaty to get unique experiences.
+- As a returing user, I want new locations for spotting aircraft.
+
+#### Site Owner 
+
+- As a site owner, I want users to get updated images.
+- As a site owner, I want users to share their images and experiences with us.
+- As a site owner, I want users to be able to give their feedback.
+- As a site owner, I want users to be able to navigate the site easily.
+- As a site owner, I want to be able to contact users with news letters.
 
 ### iii. User Requirment
+
+- An easy to use Navigation toolbar.
+- Accessible to those with visual and hearing imparements.
+- Easy to navigate and located required information.
+- Responsive to all devices sizes.
+- Visually pleasing design and layout.
+- Concise and informtive content.
+- Up to date content.
 
 ## Aims
 
 ### User Aims
 
+- Finding a community if like-minded of plane spotters in Dublin.
+- To share images of aircraft at Dublin Airport.
+- To get up to date information.
+- To find the best plane spotting locations.
+- To give my feedback.
+
 ### Site Creater Aims
+
+- To connect like minded users.
+- To create a data base of contact information and feedback.
+- To create a data base of images that may be shared or sold.
+- To find new locations.
+- To share one-off experiences with others.
 
 ## UX
 
