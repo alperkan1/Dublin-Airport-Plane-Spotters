@@ -27,7 +27,7 @@
    5. [Survey Page](#v-survey-page)
    6. [Images](#vi-images)
    7. [video](#vii-video)
-   8. [Footer](#viii-footer)
+   8. [Footer](#viii-the-footer)
    9. [Features left to implement](#ix-features-left-to-implement)
 5. [Technologies Used](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#technologies-used)
    1. [Web Technologies](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#web-echnologies)
