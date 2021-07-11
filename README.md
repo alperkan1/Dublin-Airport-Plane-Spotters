@@ -38,6 +38,8 @@
    1. [HTML Validation](#i-html-validation)
    2. [CSS Validation](#ii-css-validation)
    3. [Accessibility](#iii-accessibility)
+   4. [Speed test](iv-speed-test)
+   5. [Tests On Devices](v-tests-on-devices)
 9. [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
 10. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
 11. [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
@@ -332,6 +334,28 @@ The WAVE WebAIM acessibility tool was used to confirm check that the site is up 
 </details>
 
 ### iv. Speed test
+
+#### Mobile device
+
+<details><summary>Home</summary>
+<img src="documents//Speedtest/homemobile.JPG">
+</details> 
+
+<details><summary>Gallery</summary>
+<img src="documents/Speedtest/gallerymobile.JPG">
+</details> 
+
+<details><summary>Survey</summary>
+<img src="documents/Speedtest/surveymobile.JPG">
+</details> 
+
+<details><summary>Thank You</summary>
+<img src="documents/Speedtest/thnakyoumobile.JPG">
+</details> 
+
+<details><summary>404</summary>
+<img src="documents/Speedtest/404mobile.JPG">
+</details>
 
 ### v. Testing on Devices
 
