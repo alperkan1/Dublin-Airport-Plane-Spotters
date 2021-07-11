@@ -335,6 +335,8 @@ The WAVE WebAIM acessibility tool was used to confirm check that the site is up 
 
 ### iv. Speed test
 
+Google Lighthouse was used to speed test for mobile devices and for destop. All pages performed above 90%.
+
 #### Mobile device
 
 <details><summary>Home</summary>
@@ -350,14 +352,43 @@ The WAVE WebAIM acessibility tool was used to confirm check that the site is up 
 </details> 
 
 <details><summary>Thank You</summary>
-<img src="documents/Speedtest/thnakyoumobile.JPG">
+<img src="documents/Speedtest/thankyoumobile.JPG">
 </details> 
 
 <details><summary>404</summary>
 <img src="documents/Speedtest/404mobile.JPG">
 </details>
 
+#### Desktop
+
+<details><summary>Home</summary>
+<img src="documents//Speedtest/indexdesktop.JPG">
+</details> 
+
+<details><summary>Gallery</summary>
+<img src="documents/Speedtest/gallerydesktop.JPG">
+</details> 
+
+<details><summary>Survey</summary>
+<img src="documents/Speedtest/surveydesktop.JPG">
+</details> 
+
+<details><summary>Thank You</summary>
+<img src="documents/Speedtest/thankyoudesktop.JPG">
+</details> 
+
+<details><summary>404</summary>
+<img src="documents/Speedtest/404desktop.JPG">
+</details>
+
+
+
 ### v. Testing on Devices
+
+- TOSHIBA Satelite 
+- I Phone 8 Pluss
+- Lenova ThinkPad
+- Windows Surface Pro 5 
 
 
 ### Unfixed Bugs
