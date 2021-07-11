@@ -378,7 +378,7 @@ Google Lighthouse was used to speed test for mobile devices and for destop. All 
 </details> 
 
 <details><summary>404</summary>
-<img src="documents/Speedtest/404-desktop.JPG">
+<img src="documents/Speedtest/404 desktop.JPG">
 </details>
 
 
