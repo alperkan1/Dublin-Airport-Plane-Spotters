@@ -29,16 +29,16 @@
    7. [video](#vii-video)
    8. [Footer](#viii-footer)
    9. [Features left to implement](#ix-features-left-to-implement)
-5 [Technologies Used](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#technologies-used)
+5. [Technologies Used](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#technologies-used)
    1. [Web Technologies](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#web-echnologies)
    2. [Developer Tools](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#developer-tools)
-6 [Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#testing)
+6. [Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#testing)
    1. [Validator Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#validator-testing)
    2. [Unfixed Bugs](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#unfixed-bugs)
-9 [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
-10[Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
-11 [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
-12 [Media](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#media)
+9. [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
+10. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
+11. [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
+12. [Media](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#media)
 
 ## 1. User Experience
 
