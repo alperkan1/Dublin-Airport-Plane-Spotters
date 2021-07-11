@@ -22,16 +22,18 @@
 4. [Features](#3-Features)
    1. [Navigation Bar](#i-navigation-bar)
    2. [The Landing Page](#ii-the-landing-page)
-   3. [Community Philosophy](#iii-community-philosophy)
-   4. [Special Flights Section](#iv-special-flights-section)
+   3. [Community Information](#iii-community-information)
+   4. [Special Flights Section and Locations](#iv-special-flights-section-and-locations)
    5. [Survey Page](#v-survey-page)
    6. [Images](#vi-images)
    7. [video](#vii-video)
    8. [Footer](#viii-the-footer)
-   9. [Features left to implement](#ix-features-left-to-implement)
-5. [Technologies Used](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#technologies-used)
-   1. [Web Technologies](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#web-echnologies)
-   2. [Developer Tools](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#developer-tools)
+   9. [404 Page](#ix-404-page)
+   10. [Thank You Page](#x-thank-you-page)
+   11. [Features Left To Implement](#xi-features-left-to-implement)
+5. [Technologies Used](#5-technologies-used)
+   1. [Code Used](#i-code-used)
+   2. [Tools and Framework](#ii-tools-and-framework)
 6. [Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#testing)
    1. [Validator Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#validator-testing)
    2. [Unfixed Bugs](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#unfixed-bugs)
@@ -162,58 +164,113 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 - The links will be placed on all 5 pages.
 - The person viewing the page will be able to navigate without having to use the the history or the back button to navigate.
 
-<details><summary>Survey</summary>
+<details><summary>Navigation Bar</summary>
 <img src="documents/pageimages/navbar.JPG">
 </details>   
 
-### ii. The Landing Page
+### ii. The Landing Page 
 - the landing page will have a photo of Dublin Airport. With Text overlay of Dublin Airport Plane Spotters.
 - This section is to communicate what the site is for with an inspirational image of an aircraft in Dublin Airport. 
 
-- Image to be put in
+<details><summary>The Landing Page</summary>
+<img src="documents/pageimages/ladingpage.JPG">
+</details> 
 
-### iii. Community Philosophy
+### iii. Community Information
 - This section will include why the person should join the site what benefits they will receive from joining the site.
 - The user will become a part of a community of likeminded people.
 - The site should encourage people to go plane spotting together. And be a part of a larger group.
+- What the advantages will be visiting the site.
 
-- Image of the Community Philosophy
+<details><summary>Community Information</summary>
+<img src="documents/pageimages/middle.JPG">
+</details> 
 
-### iv. Special Flights Section
+### iv. Special Flights and Locations
 - This section will inform users of when certain aircraft will be landing at Dublin Airport.
 - What time it is scheduled to land or take off.
 - This section will be updated with new times and dates of unusal aircraft arriving in Dublin Airport.
+- The loactions will inform the user of the best places to see the aircraft coming to land.
+- The locations uses google maps.
 
-- Images of the section
+<details><summary>Special Flights and Locations</summary>
+<img src="documents/pageimages/locationandschedule.JPG">
+</details> 
 
-### v. Sing Up Page
-- This is where people with an interest in plane spotting can become a member of the Dublin Plane Spotters site.
+### v. Survey
+- We will be asking people about their Spotting Experiences and get their feedback.
 - The member will supply us with their name, surname and e mail adress. 
+- We will be able to collect infromations for our database.
 
-- Image of the Sing Up Page 
+<details><summary>Survey</summary>
+<img src="documents/pageimages/survey.JPG">
+</details>  
 
 ### vi Images
 - Will show images of aircraft in Dublin Airport by the community.
 - This section is valuable to the user as they can see what type of photos people like to take.
 - Where the best images can be taken.
+- Any one interested in purcashing images will be able to see them here.
 
-- image of the images 
+<details><summary>Images</summary>
+<img src="documents/pageimages/gallery.JPG">
+</details>  
 
 ### vii. Video
+- The video is of dublin airport by the spotting comunity.
+
+<details><summary>Video</summary>
+<img src="documents/pageimages/video.JPG">
+</details>  
 
 ### viii. The Footer
 - Will have social media links that relate to the Dublin Airport Plane Spotting community.
-- There will be a Iframe of flight radar24 for users to be able to see the most up to date flight information 
+- This has the contact and company detials.
 - this will be on all pages
 
-- Image of the footer 
+<details><summary>Footer</summary>
+<img src="documents/pageimages/footer.JPG">
+</details>  
 
-### ix. Features left to implement
+### ix. 404 Page
+
+- If a link does not wrk you will end on this page.
+
+<details><summary>Footer</summary>
+<img src="documents/pageimages/404.JPG">
+</details> 
+
+### x. Thank You Page
+
+- After you submit your survey it will take you to this page.
+- The page is to inform the user that the link has worked.
+
+<details><summary>Footer</summary>
+<img src="documents/pageimages/thankyou.JPG">
+</details> 
+
+### xi. Features Left To Implement
 - A community chat where people from the group can live chat and share their images.
 - Mail alert service when a special aircraft is arriving to the airport for the community get alerts.
+- An image sales page where people can sell there images.
 
-## 5. Testing 
-- Have to build it to test it
+## 5. Technologies Used
+
+### i. Code Used
+
+- CSS
+- HTML
+
+### ii. Tools and Framework
+
+- Git 
+- Gitpod 
+- Github
+- Balsamiq
+- Google Fonts
+- Font Awsome
+- Google Fonts
+
 
 ### Validator Testing
 - Have to build it to test it
