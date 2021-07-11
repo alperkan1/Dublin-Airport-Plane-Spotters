@@ -69,15 +69,28 @@ Dublin Airport Plane Spotters is to bring together the plane spotter community. 
 #### Returning User
 
 - As a returing user, i want to be able to get the updated schedules for flights arriving and departing from Dublin Airport.
-- As a returing user, i want to be able to see new images from new existing and new mem
-- As a returing user,
-- As a returing user,
-- As a returing user,
-- As a returing user,
+- As a returing user, i want to be able to see new images from existing and new members.
+- As a returing user, i want to be able to share images.
+- As a returing user, i want to have the oportunaty to get unique experiences.
+- As a returing user, i want new locations for spotting aircraft.
 
+#### Site Owner 
 
+- As a site owner, i want users to get updated images.
+- As a site owner, i want users to share their images and experiences with us.
+- As a site owner, i want users to be able to give their feedback.
+- As a site owner, i want users to be able to navigate the site easily.
+- As a site owner, i want to be able to contact users with news letters.
 
 ### iii. User Requirment
+
+- An easy to use Navigation toolbar.
+- Accessible to those with visual and hearing imparements.
+- Easy to navigate and located required information.
+- Responsive to all devices sizes.
+- Visually pleasing design and layout.
+- Concise and informtive content.
+- Up to date content.
 
 ## Aims
 
