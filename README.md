@@ -51,10 +51,13 @@ Dublin Airport Plane Spotters is to bring together the plane spotter community. 
 - A site for people to share their aeronautical images with the potenial of selling them.
 - Plane spotters looking to get the most up to date flight information.
 - Helping plane spotters to locate the best spotting locations.
-- 
+- People interested in unique and exclusive experiences at Dublin Airport.
 
 
 ### ii. User Stories
+
+-As a first time user, I want to be able to be a part of a Plane Spotting comunity at Dublin Airport.
+-As a first time user, I want to be able to 
 
 ### iii. User Requirment
 
