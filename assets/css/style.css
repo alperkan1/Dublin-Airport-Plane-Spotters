@@ -20,7 +20,7 @@
 #plane-text3 h2{
     color: ivory;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     font-size: 200%;
 }
   
@@ -477,6 +477,12 @@ hr {
 }
 
 #plane-outer2 {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+#plane-outer3 {
     height: 400px;
     width: 100%;
     overflow: hidden;
