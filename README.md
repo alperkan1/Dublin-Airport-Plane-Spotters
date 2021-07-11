@@ -300,6 +300,12 @@ The W3C Markup Validation Service used to validate the HTML code. On page galler
 
 ### ii. CSS Validation
 
+W3C jigsaw Validation was used to test the code with a direct input. 1 warning and no errors are showing.
+
+<details><summary>CSS Validation</summary>
+<img src="documents/csstest/css.JPG">
+</details>
+
 ### iii. Accessibility
 
 ### iv. Speed test
