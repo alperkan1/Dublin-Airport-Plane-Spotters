@@ -561,6 +561,17 @@ hr {
 
 }
 
+#radio2 input {
+    margin-left: 40px;
+    margin: 25px;
+
+}
+
+#radio2 label {
+    font-size: 110%;
+
+}
+
 
 
 #social-survey input {
@@ -850,6 +861,12 @@ input[type=reset] {
         width: auto;
         padding-right: 10px;
     }
+    #radio2 h3 {
+
+        text-align: left;
+        width: auto;
+        padding-right: 10px;
+    }
 
 
     #radio span {
@@ -857,6 +874,10 @@ input[type=reset] {
         width: auto;
     }
     #radio1 span {
+        display: block;
+        width: auto;
+    }
+    #radio2 span {
         display: block;
         width: auto;
     }

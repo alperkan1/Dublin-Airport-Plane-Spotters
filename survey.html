@@ -69,13 +69,13 @@
             <div id="radio1">
                 <h3>HOW MANY YEARS HAVE YOU BEEN A PLANE SPOTTER?</h3>
 
-                <span> <input type="radio" id="one-five" name="how-many" value="1-5" class="list1">
+                <span> <input type="radio" id="one-five" name="how-many" value="1-5" class="list1" required>
                       <label for="one-five">1 - 5</label></span>
-                <span> <input type="radio" id="six" name="how-many" value="6-10" class="list1">
+                <span> <input type="radio" id="six" name="how-many" value="6-10" class="list1" required>
                       <label for="six">6 - 10</label></span> 
-                 <span><input type="radio" id="eleven" name="how-many" value="11-15" class="list1">
+                 <span><input type="radio" id="eleven" name="how-many" value="11-15" class="list1" required>
                       <label for="eleven">11 - 15</label></span>
-                <span> <input type="radio" id="sixteen" name="how-many" value="16-or-more" class="list1">
+                <span> <input type="radio" id="sixteen" name="how-many" value="16-or-more" class="list1" required>
                       <label for="sixteen">16 - Or More</label></span>
 
             </div>
@@ -84,23 +84,31 @@
 
             <div id="social-survey">
                 <h3>WHAT SOCIAL MEDIA ACCOUNTS DO YOU USE TO SHARE YOUR IMAGES ?</h3>
-                <span> <input type="checkbox" name="instagram1" value="instagram" id="social-media1">
+                <span> <input type="checkbox" name="instagram1" value="instagram" id="social-media1" >
                     <label for="social-media1"> Instagram <i class="fab fa-instagram"></i></label></span>
-                <span> <input type="checkbox" name="facebook2" value="facebook" id="social-media2">
+                <span> <input type="checkbox" name="facebook2" value="facebook" id="social-media2" >
                     <label for="social-media2"> Facebook <i class="fab fa-facebook-square"></i></label></span>
-                <span><input type="checkbox" name="twitter3" value="twitter" id="social-media3">
+                <span><input type="checkbox" name="twitter3" value="twitter" id="social-media3" >
                     <label for="social-media3"> Twitter <i class="fab fa-twitter-square"></i></label></span>
-                <span> <input type="checkbox" name="youtube4" value="youtube" id="social-media4">
+                <span> <input type="checkbox" name="youtube4" value="youtube" id="social-media4" >
                     <label for="social-media4"> Youtube <i class="fab fa-youtube"></i></label></span>
 
             </div>
             <!--question4-->
             <div id="radio">
                 <h3>DO YOU SELL YOUR IMAGES?</h3>
-                <input type="radio" id="yes" name="sell-images" value="Yes">
+                <input type="radio" id="yes" name="sell-images" value="Yes" required>
                  <label for="yes">Yes</label>
-                 <input type="radio" id="no" name="sell-images" value="No">
+                 <input type="radio" id="no" name="sell-images" value="No" required>
                  <label for="no">No</label>
+            </div>
+
+            <div id="radio2">
+                <h3>DO YOU CONSENT TO BE CONTACTED?</h3>
+                <input type="radio" id="yes1" name="want-to-contact" value="Yes" required>
+                 <label for="yes1">Yes</label>
+                 <input type="radio" id="no1" name="want-to-contact" value="No" required>
+                 <label for="no1">No</label>
             </div>
 
             <input type="submit" value="Submit">
