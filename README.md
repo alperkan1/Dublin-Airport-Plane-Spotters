@@ -40,10 +40,13 @@
    3. [Accessibility](#iii-accessibility)
    4. [Speed test](#iv-speed-test)
    5. [Tests On Devices](#v-tests-on-devices)
-9. [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
-10. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
-11. [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
-12. [Media](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#media)
+   6. [Browser](#vi-Browser)
+   7. [Have the User Stories Been Answered](#vii-have-the-user-stories-been-answered)
+7. [Bugs](#9-bugs)
+8. [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
+9. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
+10. [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
+11. [Media](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#media)
 
 ## 1. User Experience
 
@@ -385,14 +388,28 @@ Google Lighthouse was used to speed test for mobile devices and for destop. All 
 
 ### v. Testing on Devices
 
+I used the inspect tool on Google Chrome to test the responsiveness on different devices.
+
 - TOSHIBA Satelite 
 - I Phone 8 Pluss
 - Lenova ThinkPad
 - Windows Surface Pro 5 
 
+### vi. Browser
 
-### Unfixed Bugs
-- Have to build it to test it
+The site is working on the follwing browsers
+
+- Google Chrome
+- Microsoft Edge
+- Microsoft Explorer 
+- Mozilla Firefox
+
+### vii.  Have the User Stories Been Answered
+
+
+
+
+## 7. Bugs
 
 ## Deployment
 -Have to buid it to go truth the deployment steps
