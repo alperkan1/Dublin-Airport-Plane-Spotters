@@ -14,7 +14,7 @@
 2. [Aims](#2-aims)
    1. [User Aims](#i-user-aims)
    2. [Site Creater Aims](#ii-site-creater-aims)
-3. [UX](#2-UX)
+3. [UX](#3-UX)
    1. [Structure](#i-structure)
    2. [Design and Colour](#ii-design-and-colour)
    3. [Design and Colour](#iii-font)
