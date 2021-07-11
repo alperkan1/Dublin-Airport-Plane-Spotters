@@ -527,11 +527,17 @@ hr {
 
 
 
-#locations {
-    margin: 25px;
-    font-size: 110%;
-    border: #252525 1px solid;
+#locals select {
+   width: 150px;
+    border: #252525 1px outset ;
     background-color: #ccc;
+    font-size: 16px;
+    margin-left: 25px;
+    
+    
+}
+#locals {
+    margin-bottom: 30px;
 }
 
 #radio input {
