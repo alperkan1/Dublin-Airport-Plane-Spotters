@@ -37,6 +37,7 @@
 6. [Testing](#6-testing)
    1. [HTML Validation](#i-html-validation)
    2. [CSS Validation](#ii-css-validation)
+   3. [Accessibility](#iii-accessibility
 9. [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
 10. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
 11. [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
