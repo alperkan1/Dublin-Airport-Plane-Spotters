@@ -38,7 +38,7 @@
    1. [HTML Validation](#i-html-validation)
    2. [CSS Validation](#ii-css-validation)
    3. [Accessibility](#iii-accessibility)
-   4. [Speed test](iv-speed-test)
+   4. [Speed test](#iv-speed-test)
    5. [Tests On Devices](v-tests-on-devices)
 9. [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
 10. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
@@ -338,7 +338,7 @@ The WAVE WebAIM acessibility tool was used to confirm check that the site is up 
 #### Mobile device
 
 <details><summary>Home</summary>
-<img src="documents//Speedtest/homemobile.JPG">
+<img src="documents//Speedtest/indexmobile.JPG">
 </details> 
 
 <details><summary>Gallery</summary>
