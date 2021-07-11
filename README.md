@@ -17,7 +17,7 @@
 3. [UX](#3-UX)
    1. [Structure](#i-structure)
    2. [Design and Colour](#ii-design-and-colour)
-   3. [Design and Colour](#iii-font)
+   3. [Font](#iii-font)
    4. [Design and Colour](#iv-wireframes)
 4. [Features](#3-Features)
    1. [Navigation Bar](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#i-navigation-bar)
