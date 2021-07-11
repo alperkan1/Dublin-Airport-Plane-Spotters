@@ -146,6 +146,9 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 
 ### iv. Wireframes
 
+<details><summary>HomePage</summary>
+   <img src="documents/wifreframes/homepage.png>
+
 
 ## 4. Features
 
