@@ -1,6 +1,8 @@
 # Dublin Airport Plane Spotters
 (Developer Alper Kanburoglu)
-![image of website on other devices](documents/capture-of-devices.jpg)
+
+![image of website on other devices](documents/Capture of devices.JPG)
+
 Dublin Airport Plane Spotters is to bring together the plane spotter community Based in Dublin to communicate and share their experiences plane spotting. The site will be open to all but will target the plane spotters who would like to socialise with other pole who enjoy there hobby. Dublin Airport Plane Spotters will be a perfect place get the information of special plane movements that are arriving and departing with the best location to see the aircraft. 
 
 1. [UX](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#UX)
