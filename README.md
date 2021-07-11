@@ -134,11 +134,15 @@ This page is entered after the survey is completed. This has a large image with 
 
 This has a large image with a box overlay informing the user that they are on the wrong page and should go back.
 
-### ii. Design
+### ii. Design and Colour
 
-The site was desinged with background colours that compliment and enhances the images used. The colours are bright cool tones to reflect the clear sky often captured in spooter images. The design of the site was choosen to instil the emotion of plane spotting on your device anywhere in the world.  
+![image of website on other devices](documents/color.JPG)
+
+The site was desinged with background colours that compliment and enhances the images used. The colours are bright, cool tones to reflect the clear sky often captured in spotter images. The design of the site was choosen to instil the emotion of plane spotting on your device, anywhere in the world.  
 
 ### iii. Font
+
+Oswald with a back up of sans serif was used on the logo which represents the clear lines of an aircraft. H1 uses the playfair with a backup of san serif. h2 uses the oswald with san serif backup and the body uses the Roboto with sans serif backup. The fonts were chosen with user accessebility in mind. All of the fonts are considered to be dyslexia freindly and are clearly defined for people with visual impairments. 
 
 ### iv. Wireframes
 
