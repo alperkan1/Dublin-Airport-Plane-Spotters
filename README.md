@@ -274,29 +274,38 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 
 ## 6. Testing
 
-### i. html-validation
+### i. html Validation
 
 The W3C Markup Validation Service used to validate the HTML code. On page gallery and survey warning for sections not having a heading. For desing reasons that was chosen.
 
 <details><summary>Home</summary>
-<img src="documents/wireframes/home.png">
+<img src="documents/htmltest/index.JPG">
 </details> 
 
 <details><summary>Gallery</summary>
-<img src="documents/wireframes/home.png">
+<img src="documents/htmltest/gallery.JPG">
 </details> 
 
 <details><summary>Survey</summary>
-<img src="documents/wireframes/home.png">
+<img src="documents/htmltest/survey.JPG">
 </details> 
 
 <details><summary>Thank You</summary>
-<img src="documents/wireframes/home.png">
+<img src="documents/htmltest/thankyou.JPG">
 </details> 
 
 <details><summary>404</summary>
-<img src="documents/wireframes/home.png">
-</details> 
+<img src="documents/htmltest/404.JPG">
+</details>
+
+### ii. CSS Validation
+
+### iii. Accessibility
+
+### iv. Speed test
+
+### v. Testing on Devices
+
 
 ### Unfixed Bugs
 - Have to build it to test it
