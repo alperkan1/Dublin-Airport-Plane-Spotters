@@ -29,7 +29,7 @@
    7. [video](#vii-video)
    8. [Footer](#viii-the-footer)
    9. [404 Page](#ix-404-page)
-   10. [Thank You Page](#x-thank-you-age)
+   10. [Thank You Page](#x-thank-you-page)
    11. [Features Left To Implement](#xi-features-left-to-implement)
 5. [Technologies Used](#5-technologies-used)
    1. [Code Used](#i-code-used)
