@@ -39,7 +39,7 @@
    2. [CSS Validation](#ii-css-validation)
    3. [Accessibility](#iii-accessibility)
    4. [Speed test](#iv-speed-test)
-   5. [Tests On Devices](v-tests-on-devices)
+   5. [Tests On Devices](#v-tests-on-devices)
 9. [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
 10. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
 11. [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
@@ -378,7 +378,7 @@ Google Lighthouse was used to speed test for mobile devices and for destop. All 
 </details> 
 
 <details><summary>404</summary>
-<img src="documents/Speedtest/404desktop.JPG">
+<img src="documents/Speedtest/404-desktop.JPG">
 </details>
 
 
