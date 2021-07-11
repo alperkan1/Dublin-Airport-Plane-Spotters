@@ -20,29 +20,25 @@
    3. [Font](#iii-font)
    4. [Wireframes](#iv-wireframes)
 4. [Features](#3-Features)
-   1. [Navigation Bar](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#i-navigation-bar)
-   2. [The Landing Page](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#the-landing-page)
-   3. [Community Philosophy](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#community-philosophy)
-   4. [Special Flights Section](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#special-flights-section)
-   5. [Sing Up Page](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#sing-up-page)
-   6. [Images](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#images)
-   7. [Footer](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#fotter)
-   8. [Features left to implement](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#features-left-to-implement)
-5. [Desing Features](#4-desing-features)
-   1. [Colors](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#colors)
-   2. [Fonts](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#fonts)
-   3. [Structure](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#structure)
-   4. [Wireframes](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#wireframes)
-6. [Technologies Used](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#technologies-used)
+   1. [Navigation Bar](#i-navigation-bar)
+   2. [The Landing Page](#ii-the-landing-page)
+   3. [Community Philosophy](#iii-community-philosophy)
+   4. [Special Flights Section](#iv-special-flights-section)
+   5. [Survey Page](#v-survey-page)
+   6. [Images](#vi-images)
+   7. [video](#vii-video)
+   8. [Footer]#viii-footer)
+   9. [Features left to implement](#ix-features-left-to-implement)
+5 [Technologies Used](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#technologies-used)
    1. [Web Technologies](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#web-echnologies)
    2. [Developer Tools](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#developer-tools)
-7. [Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#testing)
+6 [Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#testing)
    1. [Validator Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#validator-testing)
    2. [Unfixed Bugs](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#unfixed-bugs)
-8. [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
-9. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
-10. [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
-11. [Media](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#media)
+9 [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
+10[Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
+11 [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
+12 [Media](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#media)
 
 ## 1. User Experience
 
@@ -161,75 +157,62 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 
 ## 4. Features
 
-### Navigation Bar
-- The links to jump from page to page for easy navigation on all devices.
-- The links will be placed on the top of each page.
-- The person viewing the page will be able to navigate without having use the back button or the history to see how to get back to an older page.
+### i. Navigation Bar
+- The links to jump from page to page for comfortable navigation on all devices.
+- The links will be placed on all 5 pages.
+- The person viewing the page will be able to navigate without having to use the the history or the back button to navigate.
 
-- Image to be put in 
+<details><summary>Survey</summary>
+<img src="documents/pageimages/navbar.JPG">
+</details>   
 
-### The Landing Page
-- he landing page will have a photo of Dublin Airport. With Text overlay of Dublin Airport Plane Spotters.
+### ii. The Landing Page
+- the landing page will have a photo of Dublin Airport. With Text overlay of Dublin Airport Plane Spotters.
 - This section is to communicate what the site is for with an inspirational image of an aircraft in Dublin Airport. 
 
 - Image to be put in
 
-### Community Philosophy
+### iii. Community Philosophy
 - This section will include why the person should join the site what benefits they will receive from joining the site.
 - The user will become a part of a community of likeminded people.
 - The site should encourage people to go plane spotting together. And be a part of a larger group.
 
 - Image of the Community Philosophy
 
-### Special Flights Section
+### iv. Special Flights Section
 - This section will inform users of when certain aircraft will be landing at Dublin Airport.
 - What time it is scheduled to land or take off.
 - This section will be updated with new times and dates of unusal aircraft arriving in Dublin Airport.
 
 - Images of the section
 
-### Sing Up Page
+### v. Sing Up Page
 - This is where people with an interest in plane spotting can become a member of the Dublin Plane Spotters site.
 - The member will supply us with their name, surname and e mail adress. 
 
 - Image of the Sing Up Page 
 
-### Images
+### vi Images
 - Will show images of aircraft in Dublin Airport by the community.
 - This section is valuable to the user as they can see what type of photos people like to take.
 - Where the best images can be taken.
 
 - image of the images 
 
-### The Footer
+### vii. Video
+
+### viii. The Footer
 - Will have social media links that relate to the Dublin Airport Plane Spotting community.
 - There will be a Iframe of flight radar24 for users to be able to see the most up to date flight information 
 - this will be on all pages
 
 - Image of the footer 
 
-### Features left to implement
+### ix. Features left to implement
 - A community chat where people from the group can live chat and share their images.
 - Mail alert service when a special aircraft is arriving to the airport for the community get alerts.
 
-## Desing Features 
-
-### Colors 
-
-### Fonts 
-
-### Structure 
-
-### Wireframes
-
-## Technologies Used
-
-### Web Technologies 
-
-### Developer Tools 
-
-
-## Testing 
+## 5. Testing 
 - Have to build it to test it
 
 ### Validator Testing
