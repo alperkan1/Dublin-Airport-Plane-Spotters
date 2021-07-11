@@ -11,7 +11,7 @@ Dublin Airport Plane Spotters is to bring together the plane spotter community. 
    2. [User Stories](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#user-stories)
    3. [User Requirment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#user-requirments)
 2. [Aims](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#aims)
-   1. [User Aims] (https://github.com/alperkan1/Dublin-Airport-Plane-spotters#user-aims)
+   1. [User Aims](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#user-aims)
    2. [Site Creater Aims](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#site-creater-aims)
 3. [UX](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#UX)
    1. [Structure and Design](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#structure-and-design)
