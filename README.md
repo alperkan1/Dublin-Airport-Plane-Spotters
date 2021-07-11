@@ -10,7 +10,7 @@
 1. [User Experience](#1-user-experience)
    1. [Target User](#i-target-user)
    2. [User Stories](#ii-user-stories)
-   3. [User Requirment](#iii-user-requirments)
+   3. [User Requirment](#iii-user-requirment)
 2. [Aims](#2-aims)
    1. [User Aims](#i-user-aims)
    2. [Site Creater Aims](#ii-site-creater-aims)
