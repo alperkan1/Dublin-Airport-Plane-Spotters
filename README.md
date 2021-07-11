@@ -34,8 +34,8 @@
 5. [Technologies Used](#5-technologies-used)
    1. [Code Used](#i-code-used)
    2. [Tools and Framework](#ii-tools-and-framework)
-6. [Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#testing)
-   1. [Validator Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#validator-testing)
+6. [Testing](#6-testing)
+   1. [HtML Validation](#i-html-validation)
    2. [Unfixed Bugs](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#unfixed-bugs)
 9. [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
 10. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
@@ -272,8 +272,31 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 - Google Fonts
 
 
-### Validator Testing
-- Have to build it to test it
+## 6. Testing
+
+### i. html-validation
+
+The W3C Markup Validation Service used to validate the HTML code. On page gallery and survey warning for sections not having a heading. For desing reasons that was chosen.
+
+<details><summary>Home</summary>
+<img src="documents/wireframes/home.png">
+</details> 
+
+<details><summary>Gallery</summary>
+<img src="documents/wireframes/home.png">
+</details> 
+
+<details><summary>Survey</summary>
+<img src="documents/wireframes/home.png">
+</details> 
+
+<details><summary>Thank You</summary>
+<img src="documents/wireframes/home.png">
+</details> 
+
+<details><summary>404</summary>
+<img src="documents/wireframes/home.png">
+</details> 
 
 ### Unfixed Bugs
 - Have to build it to test it
