@@ -112,7 +112,31 @@
 
 ### i. Structure 
 
+The site is structured in a visually appealing manner which draws the eye down the page. The site implements a user freindly navigtion bar. On all pages the company logo is situated on the top left and when clicked will bring you back to the home page. The navigation bar is loacated on the top right with 3 links. On all pages the footer has links to the social pages and contact details.
+
+#### Home Page 
+
+On the home page you can see an image of an airplane landing at Dublin Airport. Secton 2, where you can find an image of an aircraft in a circle with information about the community. At the bottom of the page the live landing and take off times are visable with a map of the best spotting locations. This page is responsive as the scale of the page changes to smaller devices.
+
+#### Gallery Page 
+
+The gallery page has 9 images in boxes with with 3 columns. The images become inline blocks as the scale of the display gets smaller.
+
+#### Survey Page
+
+The survey page has a large image of an aircraft that zooms in. This page has a visually pleasing font with selectable options.
+
+#### Thank You Page 
+
+This page is entered after the survey is completed. This has a large image with a text box to inform the user that the survey has been sucessful. 
+
+#### 404 Page 
+
+This has a large image with a box overlay informing the user that they are on the wrong page and should go back.
+
 ### ii. Design
+
+The site was desinged with background colours that compliment and enhances the images used. The colours are bright cool tones to reflect the clear sky often captured in spooter images. The design of the site was choosen to instil the emotion of plane spotting on your device anywhere in the world.  
 
 ### iii. Font
 
