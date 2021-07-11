@@ -56,8 +56,26 @@ Dublin Airport Plane Spotters is to bring together the plane spotter community. 
 
 ### ii. User Stories
 
--As a first time user, I want to be able to be a part of a Plane Spotting comunity at Dublin Airport.
--As a first time user, I want to be able to 
+#### First Time User 
+
+- As a first time user, i want to be able to be a part of a Plane Spotting comunity at Dublin Airport.
+- As a first time user, i want to be able to see other users photos.
+- As a first time user, i want to be able to locate the best locations for plane spotting at Dublin Airport.
+- As a first time user, i want to get the most up to date flight information.
+- As a first time user, i want to find the social media links for the the comunity.
+- As a first time user, i want to be able to give my feed back.
+- As a first time user, i want to be able to contact the society.
+
+#### Returning User
+
+- As a returing user, i want to be able to get the updated schedules for flights arriving and departing from Dublin Airport.
+- As a returing user, i want to be able to see new images from new existing and new mem
+- As a returing user,
+- As a returing user,
+- As a returing user,
+- As a returing user,
+
+
 
 ### iii. User Requirment
 
