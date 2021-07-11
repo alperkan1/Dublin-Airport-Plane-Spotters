@@ -258,8 +258,8 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 
 ### i. Code Used
 
--CSS
--HTML
+- CSS
+- HTML
 
 ### ii. Tools and Framework
 
