@@ -35,8 +35,8 @@
    1. [Code Used](#i-code-used)
    2. [Tools and Framework](#ii-tools-and-framework)
 6. [Testing](#6-testing)
-   1. [HtML Validation](#i-html-validation)
-   2. [Unfixed Bugs](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#unfixed-bugs)
+   1. [HTML Validation](#i-html-validation)
+   2. [CSS Validation](#i-css-validation)
 9. [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
 10. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
 11. [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
@@ -274,7 +274,7 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 
 ## 6. Testing
 
-### i. html Validation
+### i. HTML Validation
 
 The W3C Markup Validation Service used to validate the HTML code. On page gallery and survey warning for sections not having a heading. For desing reasons that was chosen.
 
