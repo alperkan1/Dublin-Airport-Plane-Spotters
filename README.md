@@ -3,7 +3,7 @@
 
 ![image of website on other devices](documents/Capture.JPG)
 
-[link to live page](https://8000-plum-woodpecker-opuoy299.ws-eu11.gitpod.io/index.html)
+[link to live page](https://alperkan1.github.io/MS1-Dublin-Airport-Plane-Spotters/index.html)
 
 # Contents
 
