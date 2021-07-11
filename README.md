@@ -28,10 +28,12 @@
    6. [Images](#vi-images)
    7. [video](#vii-video)
    8. [Footer](#viii-the-footer)
-   9. [Features left to implement](#ix-features-left-to-implement)
-5. [Technologies Used](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#technologies-used)
-   1. [Web Technologies](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#web-echnologies)
-   2. [Developer Tools](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#developer-tools)
+   9. [404 Page](#ix-404-page)
+   10. [Thank You Page](#x-thank-you-age)
+   11. [Features Left To Implement](#xi-features-left-to-implement)
+5. [Technologies Used](#5-technologies-used)
+   1. [Code Used](#i-code-used)
+   2. [Tools and Framework](#ii-tools-and-framework)
 6. [Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#testing)
    1. [Validator Testing](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#validator-testing)
    2. [Unfixed Bugs](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#unfixed-bugs)
@@ -247,13 +249,28 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 <img src="documents/pageimages/thankyou.JPG">
 </details> 
 
-### xi. Features left to implement
+### xi. Features Left To Implement
 - A community chat where people from the group can live chat and share their images.
 - Mail alert service when a special aircraft is arriving to the airport for the community get alerts.
 - An image sales page where people can sell there images.
 
-## 5. Testing 
-- Have to build it to test it
+## 5. Technologies Used
+
+### i. Code Used
+
+-CSS
+-HTML
+
+### ii. Tools and Framework
+
+- Git 
+- Gitpod 
+- Github
+- Balsamiq
+- Google Fonts
+- Font Awsome
+- Google Fonts
+
 
 ### Validator Testing
 - Have to build it to test it
