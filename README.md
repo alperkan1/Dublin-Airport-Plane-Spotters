@@ -242,7 +242,7 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 
 - If a link does not wrk you will end on this page.
 
-<details><summary>Footer</summary>
+<details><summary>404</summary>
 <img src="documents/pageimages/404.JPG">
 </details> 
 
@@ -251,7 +251,7 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 - After you submit your survey it will take you to this page.
 - The page is to inform the user that the link has worked.
 
-<details><summary>Footer</summary>
+<details><summary>Thank You</summary>
 <img src="documents/pageimages/thankyou.JPG">
 </details> 
 
@@ -407,11 +407,52 @@ The site is working on the follwing browsers
 ### vii.  Have the User Stories Been Answered
 
 
+####  As a first time user, I want to be able to be a part of a Plane Spotting comunity at Dublin Airport.
+
+#### As a first time user, I want to be able to see other users photos.
+
+#### As a first time user, I want to be able to locate the best locations for plane spotting at Dublin Airport.
+
+#### As a first time user, I want to get the most up to date flight information.
+
+#### As a first time user, I want to find the social media links for the the comunity.
+
+#### As a first time user, I want to be able to give my feed back.
+
+#### As a first time user, I want to be able to contact the society.
+
+- On all pages the user can navigate to the footer and see the contact detials.This feture
+
+| Element | Aim | Result |
+| ------- | ----|----------|
+|Footer| The aim is to see the footer on all pages with the contact detials and all devices| works on all pages|
+
+<details><summary>Footer</summary>
+<img src="documents/pageimages/footer.JPG">
+</details>
+
+
+
+
+
+- As a returing user, I want to be able to get the updated schedules for flights arriving and departing from Dublin Airport.
+- As a returing user, I want to be able to see new images from existing and new members.
+- As a returing user, I want to be able to share images.
+- As a returing user, I want to have the oportunaty to get unique experiences.
+- As a returing user, I want new locations for spotting aircraft.
+
+
+
+- As a site owner, I want users to get updated images.
+- As a site owner, I want users to share their images and experiences with us.
+- As a site owner, I want users to be able to give their feedback.
+- As a site owner, I want users to be able to navigate the site easily.
+- As a site owner, I want to be able to contact users with news letters.
 
 
 ## 7. Bugs
 
-| bugs | Corrections
+| bugs | Corrections|
 | ------- | --- |
 | CSS code giving the error of H3 cannot be used as a label | Take the h3 heading out of the label and have it as a sperate element in the survey |
 | When trying to put the Map and the chedule box beside each other the map went below.| Used a flex to aling the two elements|
