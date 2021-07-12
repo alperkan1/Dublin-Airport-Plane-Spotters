@@ -461,7 +461,7 @@ hr {
     background-size: cover;
     border-radius: 50%;
 }
-
+/*survey*/
 /*survey image*/
 #plane-survey {
     height: 400px;
@@ -469,9 +469,7 @@ hr {
     background: url("../images/survey.jpg") no-repeat center center;
     background-size: cover;
 
-    /*plane image will zoom*/
-
-    animation-name: plane-zoom;
+        animation-name: plane-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
@@ -502,9 +500,8 @@ hr {
     margin-bottom: 50px;
 }
 
-#break{
-    margin-left: 60px;
-}
+
+
 #break h3{
     
         font-family: Oswald, sans-serif;
@@ -539,6 +536,10 @@ hr {
     display: inline;
 
 
+}
+
+#survey-center {
+    text-align:center;
 }
 
 /*question 1 */
@@ -611,9 +612,8 @@ input[type=reset] {
     margin-top: 50px;
 }
 
-#form-survey {
-    margin-left: 60px;
-}
+
+
 
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
@@ -742,6 +742,7 @@ input[type=reset] {
     #form-survey {
         width: auto;
         text-align: left;
+        margin-left:100px
     }
 
     #fname,
