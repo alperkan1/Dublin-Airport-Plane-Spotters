@@ -479,15 +479,32 @@ On all pages the user can navigate to the footer and see the contact detials.Thi
 <img src="documents/pageimages/footer.JPG">
 </details>
 
+#### As a returning user, I want to be able to get the updated schedules for flights arriving and departing from Dublin Airport.
+
+On the landing page the schedue is updated for special flights that spotter would like to view.
+
+| Element | Aim | Result |
+| ------- | ----|----------|
+|Schedule| The aim is to give the most upto  date information on take off and landings at Dublin Airport| works on lading page|
+
+<details><summary>Flight times</summary>
+<img src="documents/pageimages/locationandschedule.JPG">
+</details> 
+
+#### As a returning user, I want to be able to see new images.
+
+We ask our site visitors to send us their images via e mail. And update the gallery page.
 
 
+<details><summary>Contact</summary>
+<img src="documents/pageimages/contactus.JPG">
+</details> 
 
+#### As a returning user, I want to be able to share images.
 
-- As a returing user, I want to be able to get the updated schedules for flights arriving and departing from Dublin Airport.
-- As a returing user, I want to be able to see new images from existing and new members.
-- As a returing user, I want to be able to share images.
-- As a returing user, I want to have the oportunaty to get unique experiences.
-- As a returing user, I want new locations for spotting aircraft.
+#### As a returning user, I want to have the oportunaty to get unique experiences.
+
+#### As a returning user, I want new locations for spotting aircraft.
 
 
 
