@@ -63,7 +63,6 @@
 
 #### First Time User 
 
-- As a first time user, I want to be able to be a part of a Plane Spotting comunity at Dublin Airport.
 - As a first time user, I want to be able to see other users photos.
 - As a first time user, I want to be able to locate the best locations for plane spotting at Dublin Airport.
 - As a first time user, I want to get the most up to date flight information.
@@ -405,9 +404,6 @@ The site is working on the follwing browsers
 - Mozilla Firefox
 
 ### vii.  Have the User Stories Been Answered
-
-
-####  As a first time user, I want to be able to be a part of a Plane Spotting comunity at Dublin Airport.
 
 #### As a first time user, I want to be able to see other users photos.
 
