@@ -590,8 +590,8 @@ Images not referenced are developers images
 
 ### ii. Code 
 
-- On the lading page the circle image inspired from the love running project code institute.
-- On the lading page the schedule code modified from the Love running project code institute.
+- On the landing page the circle image is inspired from the love running project code institute.
+- On the landing page the schedule code modified from the love running project code institute.
 
 
 [Back to the top](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#Dublin-Airport-Plane-Spotters)
