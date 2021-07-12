@@ -19,7 +19,8 @@
 
 
 #plane-text3,
-#plane-text3 h2 {
+#plane-text3 h2,
+#plane-text3 a {
     color: ivory;
     text-align: center;
     margin-bottom: 50px;
@@ -730,7 +731,8 @@ input[type=reset] {
         left: 0
     }
 
-    #plane-text3 h3 {
+    #plane-text3 h3
+    #plane-text3 a {
 
         text-align: center;
 
@@ -998,24 +1000,28 @@ input[type=reset] {
         padding-right: 27%;
         font-size: 70%;
     }
+    #plane-text3,
+    #plane-text3 h3,
+    #plane-text3 a{
+        color: ivory;
+        text-align: center;
+        margin-bottom: 50px;
+        font-size: 80%;
+    }
 }
 
 /* For medium screen sizes from 557px wide and down */
 @media screen and (max-width: 557px) {
 
     #plane-text3,
-#plane-text3 a:link {
+#plane-text3 h3,
+#plane-text3 a{
     color: ivory;
     text-align: center;
     margin-bottom: 50px;
-    font-size: 100%;
+    font-size: 80%;
 }
-#white{
-    color: ivory;
-    text-align: center;
-    margin-bottom: 50px;
-    font-size: 100%;
-}
+
 
 #plane-text3{
     width: 45%;
