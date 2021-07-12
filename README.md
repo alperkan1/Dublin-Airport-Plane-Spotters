@@ -421,7 +421,7 @@ The site is working on the follwing browsers
 
 #### As a first time user, I want to be able to contact the society.
 
-- On all pages the user can navigate to the footer and see the contact detials.This feture
+On all pages the user can navigate to the footer and see the contact detials.This feture
 
 | Element | Aim | Result |
 | ------- | ----|----------|
