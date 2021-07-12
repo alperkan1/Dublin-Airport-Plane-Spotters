@@ -44,7 +44,7 @@
    7. [Have the User Stories Been Answered](#vii-have-the-user-stories-been-answered)
 7. [Bugs](#7-bugs)
 8. [Deployment](#8-deployment)
-9. [Credits](#9-credits)
+9. [Credits](#9credits)
    1. [Media](#i-media)
    2. [Code](#ii-code)
 
@@ -577,18 +577,18 @@ The site was deployed using GitHub. The page is pubic and can be reached with th
 
 
 
-## 9.Credits
+## 9. Credits
 
 Images not referenced are developers images
 
-### i.Media
+### i. Media
 
 - Image on Survey page from [Manfred Irmer](https://www.pexels.com/photo/in-flight-airliner-in-grayscale-photo-587063/) from the site pexels
 - image on Lading page for mobile devices [Nagative Space](https://www.pexels.com/photo/airport-travel-waiting-terminal-34145/) from the site pexels
 - Image on the thank you page [Joël Super](https://www.pexels.com/photo/gray-air-vehicle-with-yellow-coated-cable-around-docking-wheels-2315265/) from the pexel
 - Image on the 404 page is from Turkish Airlines media shared to staff.
 
-### ii.Code 
+### ii. Code 
 
 - On the lading page the circle image inspired from the love running project code institute.
 - On the lading page the schedule code modified from the Love running project code institute.
