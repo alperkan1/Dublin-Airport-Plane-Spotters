@@ -418,14 +418,19 @@ The site is working on the follwing browsers
 | On the submit page when you submited the survey the page went to a 404 page| Created a new page and link it to te submit button|
 | Gallery photos become too small when you use a small device| Change the element to a inine block with a @media query|
 | the text box on the 404 page was not moving and over flowing on smaller pages| Create a div with in the image to contain the text box|
+| After deployment the style.css was not working|Check the style.css file route on the HTML chnage it to the correct route.|
 
 
 ## 8. Deployment
 
 The site was deployed using GitHub. The page is pubic and can be reached with the below link.
 
-[link to live page](https://github.com/alperkan1/MS1-Dublin-Airport-Plane-Spotters)
+[GitHUb page link](https://github.com/alperkan1/MS1-Dublin-Airport-Plane-Spotters)
 
+- On git hub got to the settings.
+- Then chose the Pages option on the left hand headings.
+- Chose the branch as master.
+- Then deploy it. It will take a moment and then a link will be created with the massage "your site is published at https://alperkan1.github.io/MS1-Dublin-Airport-Plane-Spotters/index.html". If you click on the link after 5 minuets the page should be created. 
 
 
 ## Credits
