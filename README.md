@@ -407,18 +407,41 @@ The site is working on the follwing browsers
 
 #### As a first time user, I want to be able to see other users photos.
 
+The gallery page that can be accesed from the nav bar show new photos.
+
 | Element | Aim | Result |
 | ------- | ----|----------|
-|Gallery| The aim is to shw people photos at dublin airport| works on gallery page|
+|Gallery| The aim is to show people photos at dublin airport| works on gallery page|
 
-<details><summary>Images</summary>
+<details><summary>Gallery</summary>
 <img src="documents/pageimages/gallery.JPG">
 </details>  
 
 
 #### As a first time user, I want to be able to locate the best locations for plane spotting at Dublin Airport.
 
+on the landing page there is a locations heading with a map to show best location to go spotting.
+
+| Element | Aim | Result |
+| ------- | ----|----------|
+|Map| The aim is to show people the bet place to go spotting| works on lading page|
+
+<details><summary>Locations</summary>
+<img src="documents/pageimages/locationandschedule.JPG">
+</details> 
+
+
 #### As a first time user, I want to get the most up to date flight information.
+
+on the landing page there is a schedule heading with a upto date lading and take off information.
+
+| Element | Aim | Result |
+| ------- | ----|----------|
+|Schedule| The aim is give the most upto  date information on take off and landings at Dublin Airport| works on lading page|
+
+<details><summary>Flight times</summary>
+<img src="documents/pageimages/locationandschedule.JPG">
+</details> 
 
 #### As a first time user, I want to find the social media links for the the comunity.
 
