@@ -1031,28 +1031,12 @@ input[type=reset] {
         color: ivory;
         text-align: center;
         margin-bottom: 50px;
-        font-size: 80%;
+        font-size: 100%;
     }
 }
 
 /* For medium screen sizes from 557px wide and down */
 @media screen and (max-width: 557px) {
-
-    #plane-text3,
-#plane-text3 h3,
-#plane-text3 a{
-    color: ivory;
-    text-align: center;
-    margin-bottom: 50px;
-    font-size: 70%;
-}
-
-
-#plane-text3{
-    width: 45%;
-    height:35%;
-    margin-left: 25%;
-}
 
     #footer h2 {
         font-size: 60%;
