@@ -586,7 +586,7 @@ Images not referenced are developers images
 - Image on Survey page from [Manfred Irmer](https://www.pexels.com/photo/in-flight-airliner-in-grayscale-photo-587063/) from the site pexels
 - image on Lading page for mobile devices [Nagative Space](https://www.pexels.com/photo/airport-travel-waiting-terminal-34145/) from the site pexels
 - Image on the thank you page [Joël Super](https://www.pexels.com/photo/gray-air-vehicle-with-yellow-coated-cable-around-docking-wheels-2315265/) from the pexel
-- Image on the 404 page is from Turkish Airlines media shared to staff.
+- Image on the 404 page is from Turkish Airlines media cloud.
 
 ### ii. Code 
 
