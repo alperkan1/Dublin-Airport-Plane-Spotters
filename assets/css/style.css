@@ -764,7 +764,11 @@ input[type=reset] {
     }
 
     #plane-text3 {
-        text-align: center;       
+        text-align: center;
+        width: 100%;
+        margin-left: 0; 
+        
+              
     }
 
     #plane-text2 h3 {
@@ -1043,6 +1047,10 @@ input[type=reset] {
         width: 40%;
         margin-left: 20px;
         margin-top: 10px;
+    }
+    #plane-text3 {
+        
+        margin-top: 40%;
     }
 
     #footer p {
