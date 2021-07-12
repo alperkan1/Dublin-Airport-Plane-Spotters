@@ -443,10 +443,10 @@ The site was deployed using GitHub. The page is pubic and can be reached with th
 
 [GitHUb page link](https://github.com/alperkan1/MS1-Dublin-Airport-Plane-Spotters)
 
--Use the Code button
--Chose your cloning option (HTTPS SSH GITHUB CLI)
--Using git bash paste the link.
--Use the code in your directory.
+- Use the Code button
+- Chose your cloning option (HTTPS SSH GITHUB CLI)
+- Using git bash paste the link.
+- Use the code in your directory.
 
 
 
