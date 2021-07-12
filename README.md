@@ -403,7 +403,7 @@ The site is working on the follwing browsers
 - Microsoft Explorer 
 - Mozilla Firefox
 
-### vii.  Have the User Stories Been Answered
+### vii. Have the User Stories Been Answered
 
 #### As a first time user, I want to be able to see other users photos.
 
