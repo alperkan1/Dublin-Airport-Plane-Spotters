@@ -9,10 +9,11 @@
 
 #error {
 
-    height: 500px;
+    height: 100%;
     width: 100%;
-    background: url("../images/6.jpg") no-repeat center center;
+    background: url("../images/times.JPG") no-repeat center center;
     background-size: cover;
+    
 }
 
 
@@ -31,16 +32,13 @@
     font-family: Playfair, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    width: 700px;
-    height: 150px;
-
-    padding-top: 20px;
-    padding-left: 10px;
-
+    width: 70%;
+    height: 200px;
     background-color: rgb(53, 49, 48, 0.7);
     bottom: 30%;
     left: 10%;
     position: absolute;
+    text-align: center;
 
 }
 
@@ -157,12 +155,13 @@ footer {
 #footer p {
 
     float: left;
-    margin-top: 2px;
-    width: 150px;
-    font-size: 60%;
+    margin-top: 10px;
+    width: 50%;
+    font-size: 70%;
     text-align: left;
     font-weight: bold;
     height: 15px;
+    margin-left: 20px;
 }
 
 /* video*/
@@ -265,11 +264,22 @@ footer {
 
 /*thank you page*/
 
+#plane-outer2 {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 100px;
+    
+}
+
+
 #plane-image2 {
     height: 500px;
     width: 100%;
     background: url("../images/pexels-joël-super-2315265.jpg") no-repeat center center;
-    background-size: cover;
+    background-size:cover;
+
 }
 
 #plane-text2,
@@ -293,6 +303,9 @@ footer {
     left: 40px;
     position: absolute;
 }
+
+
+
 
 
 
@@ -485,18 +498,16 @@ hr {
     animation-fill-mode: forwards;
 }
 
-#plane-outer2 {
-    height: 400px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
+
 
 #plane-outer3 {
-    height: 400px;
+    height: 600px;
     width: 100%;
     overflow: hidden;
     position: relative;
+    margin-bottom: 100px;
+    
+    
 }
 
 #survey-div label {
@@ -627,11 +638,24 @@ input[type=reset] {
     margin-top: 50px;
 }
 
+/*thank you page*/
+
 
 
 
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
+
+    #plane-outer2 {
+    
+        margin-bottom: 50px;
+        
+    }
+    
+    #plane-outer3 {
+        
+        margin-bottom: 50px;
+    }
     #club-ethics {
         width: 65%;
         height: 1200px;
@@ -714,8 +738,10 @@ input[type=reset] {
 
     #plane-text3 {
         text-align: center;
-        width: auto;
-        left: 0
+       
+        margin: 0 auto;
+        
+        
     }
 
     #plane-text2 h3 {
@@ -978,16 +1004,35 @@ input[type=reset] {
     }
 }
 
-/* For medium screen sizes from 510px wide and down */
-@media screen and (max-width: 510px) {
+/* For medium screen sizes from 557px wide and down */
+@media screen and (max-width: 557px) {
+
     #footer h2 {
-        font-size: 40%;
+        font-size: 60%;
         width: 40%;
-        margin: 0;
+        margin-left: 20px;
+        margin-top: 10px;
     }
 
     #footer p {
-        font-size: 30%;
+        font-size: 50%;
+        width: 40%;
+        margin-right: 20px;
+        margin-top: 5px;
+    }
+}
+
+/* For medium screen sizes from 510px wide and down */
+@media screen and (max-width: 510px) {
+    #footer h2 {
+        font-size: 50%;
+        width: 40%;
+        margin-top: 10px;
+        margin-right: 2px;
+    }
+
+    #footer p {
+        font-size: 50%;
         width: 40%;
         margin-left: 0px;
     }
@@ -1032,6 +1077,12 @@ input[type=reset] {
     #share{
         font-size: 50%;
         margin-top: 20px;
+    }
+    #footer h2 {
+        font-size: 40%;
+        width: 40%;
+        margin-top: 5px;
+        margin-right: 2px;
     }
 }
 
