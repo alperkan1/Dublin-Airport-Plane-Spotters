@@ -6,24 +6,25 @@
     border: none;
 
 }
-#error{
-    
-        height: 500px;
-        width: 100%;
-        background: url("../images/6.jpg") no-repeat center center;
-        background-size: cover;
+
+#error {
+
+    height: 500px;
+    width: 100%;
+    background: url("../images/6.jpg") no-repeat center center;
+    background-size: cover;
 }
 
 
 
 #plane-text3,
-#plane-text3 h2{
+#plane-text3 h2 {
     color: ivory;
     text-align: center;
     margin-bottom: 50px;
     font-size: 200%;
 }
-  
+
 
 #plane-text3 {
     font-size: 100%;
@@ -40,7 +41,7 @@
     bottom: 30%;
     left: 10%;
     position: absolute;
-    
+
 }
 
 
@@ -169,15 +170,20 @@ footer {
 #video {
     text-align: center;
     height: 300px;
-    
-    }
-#video iframe{
+
+}
+
+#video iframe {
 
     width: 60%;
     height: 100%;
 }
 
 /*gallery*/
+
+#share {
+    text-align: center;
+}
 
 #photos {
     clear: both;
@@ -265,12 +271,14 @@ footer {
     background: url("../images/pexels-joël-super-2315265.jpg") no-repeat center center;
     background-size: cover;
 }
+
 #plane-text2,
 #plane-text2 h2 {
     color: ivory;
     text-align: center;
     margin-bottom: 20px;
 }
+
 #plane-text2 {
     font-size: 100%;
     font-family: Playfair, sans-serif;
@@ -302,7 +310,8 @@ footer {
     flex-basis: 50%;
 
 }
-#map-center h2{
+
+#map-center h2 {
     margin-bottom: 44px;
     text-align: center;
     font-size: 110%;
@@ -310,7 +319,8 @@ footer {
     clear: right;
 
 }
-#map{
+
+#map {
     width: 100%;
     height: 295px;
 }
@@ -461,6 +471,7 @@ hr {
     background-size: cover;
     border-radius: 50%;
 }
+
 /*survey*/
 /*survey image*/
 #plane-survey {
@@ -469,7 +480,7 @@ hr {
     background: url("../images/survey.jpg") no-repeat center center;
     background-size: cover;
 
-        animation-name: plane-zoom;
+    animation-name: plane-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
@@ -480,6 +491,7 @@ hr {
     overflow: hidden;
     position: relative;
 }
+
 #plane-outer3 {
     height: 400px;
     width: 100%;
@@ -496,22 +508,23 @@ hr {
     font-size: 120%;
     font-weight: bold;
 }
-#survey-div{
+
+#survey-div {
     margin-bottom: 50px;
 }
 
 
 
-#break h3{
-    
-        font-family: Oswald, sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-        color: #252525;
-        margin-bottom: 20px;
-        font-size: 120%;
-        font-weight: bold;
-    
+#break h3 {
+
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #252525;
+    margin-bottom: 20px;
+    font-size: 120%;
+    font-weight: bold;
+
 }
 
 
@@ -539,7 +552,7 @@ hr {
 }
 
 #survey-center {
-    text-align:center;
+    text-align: center;
 }
 
 /*question 1 */
@@ -547,14 +560,15 @@ hr {
 
 
 #locals select {
-   width: 150px;
-    border: #252525 1px outset ;
+    width: 150px;
+    border: #252525 1px outset;
     background-color: #ccc;
     font-size: 16px;
     margin-left: 25px;
-    
-    
+
+
 }
+
 #locals {
     margin-bottom: 30px;
 }
@@ -569,6 +583,7 @@ hr {
     font-size: 110%;
 
 }
+
 #radio1 input {
     margin-left: 40px;
     margin: 25px;
@@ -621,7 +636,7 @@ input[type=reset] {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
-        font-size:100%;
+        font-size: 100%;
     }
 
     #plane-image {
@@ -661,20 +676,23 @@ input[type=reset] {
     hr {
         display: none;
     }
-#flex1 {
-    display: inline-block;
-       
-}
 
-#times {
-    width: 100%;
-}
-#map-center h2 {
-    font-size: 150%;
-}
-#heading-schedule {
-    font-size:150%;
-}
+    #flex1 {
+        display: inline-block;
+
+    }
+
+    #times {
+        width: 100%;
+    }
+
+    #map-center h2 {
+        font-size: 150%;
+    }
+
+    #heading-schedule {
+        font-size: 150%;
+    }
 
 
 }
@@ -689,10 +707,11 @@ input[type=reset] {
     }
 
     #plane-text3 h3 {
-        
+
         text-align: center;
 
     }
+
     #plane-text3 {
         text-align: center;
         width: auto;
@@ -700,7 +719,7 @@ input[type=reset] {
     }
 
     #plane-text2 h3 {
-        
+
         text-align: center;
 
     }
@@ -712,7 +731,7 @@ input[type=reset] {
     }
 
     #plane-text h3 {
-        
+
         text-align: center;
     }
 
@@ -742,7 +761,7 @@ input[type=reset] {
     #form-survey {
         width: auto;
         text-align: left;
-        margin-left:100px
+        margin-left: 100px
     }
 
     #fname,
@@ -755,7 +774,7 @@ input[type=reset] {
 
     #survey-div label {
         margin: 0;
-        
+
     }
 
 }
@@ -771,11 +790,13 @@ input[type=reset] {
         column-gap: 4px;
         margin: 30px auto;
         width: 70%;
-    
+
     }
-    #break{
+
+    #break {
         margin: 10px;
     }
+
     #photos>img {
         width: 100%;
         border-style: inset;
@@ -783,6 +804,7 @@ input[type=reset] {
         margin-bottom: 20px;
         margin-top: 20px;
     }
+
     #logo {
         font-size: 80%;
         text-align: center;
@@ -791,14 +813,16 @@ input[type=reset] {
     }
 
     #menu {
-       clear: both;
-       padding-right: 30%;
+        clear: both;
+        padding-right: 30%;
 
     }
-    #error{
-        margin-top:40px;
+
+    #error {
+        margin-top: 40px;
     }
 }
+
 /* For medium screen sizes from 730px wide and down */
 @media screen and (max-width: 730px) {
 
@@ -811,7 +835,7 @@ input[type=reset] {
     }
 
     #menu {
-        
+
         margin-bottom: 20px;
         line-height: 25px;
         font-size: 75%;
@@ -820,12 +844,13 @@ input[type=reset] {
         padding-right: 30%;
 
     }
-    #error{
+
+    #error {
         margin-top: 20px;
     }
 }
 
- 
+
 /* For medium screen sizes from 700px wide and down */
 @media screen and (max-width: 700px) {
 
@@ -874,12 +899,14 @@ input[type=reset] {
         width: auto;
         padding-right: 10px;
     }
+
     #radio1 h3 {
 
         text-align: left;
         width: auto;
         padding-right: 10px;
     }
+
     #radio2 h3 {
 
         text-align: left;
@@ -892,10 +919,12 @@ input[type=reset] {
         display: block;
         width: auto;
     }
+
     #radio1 span {
         display: block;
         width: auto;
     }
+
     #radio2 span {
         display: block;
         width: auto;
@@ -911,44 +940,50 @@ input[type=reset] {
         width: auto;
     }
 }
+
 /* For medium screen sizes from 690px wide and down */
 @media screen and (max-width: 690px) {
-    #menu{
-         padding-right: 30%;
-         font-size: 70%;
-          }
-          #break{
-              margin: 0;
-          }
-          #form-survey{
-              margin-left: 20px;
-          }
-          #circle-cover {
-            background: url("../images/8.jpg") no-repeat center center;
-            background-size: contain;
-          }
- }
- /* For medium screen sizes from 650px wide and down */
- @media screen and (max-width: 650px) {
-     #menu{
-          padding-right: 30%;
-          font-size: 70%;
-  }
-  }
+    #menu {
+        padding-right: 30%;
+        font-size: 70%;
+    }
+
+    #break {
+        margin: 0;
+    }
+
+    #form-survey {
+        margin-left: 20px;
+    }
+
+    #circle-cover {
+        background: url("../images/8.jpg") no-repeat center center;
+        background-size: contain;
+    }
+}
+
+/* For medium screen sizes from 650px wide and down */
+@media screen and (max-width: 650px) {
+    #menu {
+        padding-right: 30%;
+        font-size: 70%;
+    }
+}
 
 /* For medium screen sizes from 630px wide and down */
 @media screen and (max-width: 630px) {
-    #menu{
-         padding-right: 27%;
-         font-size: 70%;
- }
- }
+    #menu {
+        padding-right: 27%;
+        font-size: 70%;
+    }
+}
+
 /* For medium screen sizes from 510px wide and down */
 @media screen and (max-width: 510px) {
     #footer h2 {
         font-size: 40%;
         width: 40%;
-        margin:0;
+        margin: 0;
     }
 
     #footer p {
@@ -962,49 +997,61 @@ input[type=reset] {
         height: 250px;
         padding: 15px;
     }
+
     #video {
         text-align: center;
         height: 150px;
-        
-        }
-    #video iframe{
-    
+
+    }
+
+    #video iframe {
+
         width: 80%;
         height: 100%;
     }
 }
-  /* For medium screen sizes from 500px wide and down */
-  @media screen and (max-width: 500px) {
-    #menu{
-         padding-right: 25%;
-         font-size: 70%;
- }
- }
-  /* For medium screen sizes from 450px wide and down */
-  @media screen and (max-width: 450px) {
-    #menu{
-         padding-right: 15%;
-         font-size: 70%;
-          }
-          #logo{
-              font-size: 70%;
-          }
- }
-   /* For medium screen sizes from 390px wide and down */
-   @media screen and (max-width: 390px) {
-    #menu{
-         padding-right: 10%;
-         font-size: 60%;
- }
- }
-     /* For medium screen sizes from 320px wide and down */
-     @media screen and (max-width: 320px) {
-        #menu{
-             padding-right: 9%;
-             font-size: 60%;
-             
-             }
-             #logo{
-                 font-size: 60%;
-             }
-     }
+
+/* For medium screen sizes from 500px wide and down */
+@media screen and (max-width: 500px) {
+    #menu {
+        padding-right: 25%;
+        font-size: 70%;
+    }
+}
+
+/* For medium screen sizes from 450px wide and down */
+@media screen and (max-width: 450px) {
+    #menu {
+        padding-right: 15%;
+        font-size: 70%;
+    }
+
+    #logo {
+        font-size: 70%;
+    }
+    #share{
+        font-size: 50%;
+        margin-top: 20px;
+    }
+}
+
+/* For medium screen sizes from 390px wide and down */
+@media screen and (max-width: 390px) {
+    #menu {
+        padding-right: 10%;
+        font-size: 60%;
+    }
+}
+
+/* For medium screen sizes from 320px wide and down */
+@media screen and (max-width: 320px) {
+    #menu {
+        padding-right: 9%;
+        font-size: 60%;
+
+    }
+
+    #logo {
+        font-size: 60%;
+    }
+}
