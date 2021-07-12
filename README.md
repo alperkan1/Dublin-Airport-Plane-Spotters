@@ -430,7 +430,24 @@ The site was deployed using GitHub. The page is pubic and can be reached with th
 - On git hub got to the settings.
 - Then chose the Pages option on the left hand headings.
 - Chose the branch as master.
-- Then deploy it. It will take a moment and then a link will be created with the massage "your site is published at https://alperkan1.github.io/MS1-Dublin-Airport-Plane-Spotters/index.html". If you click on the link after 5 minuets the page should be created. 
+- Then deploy it. It will take a moment and then a link will be created with the massage "your site is published at https://alperkan1.github.io/MS1-Dublin-Airport-Plane-Spotters/index.html". 
+- Then the link is live.
+
+- To run you can fork the project form the link below 
+
+[GitHUb page link](https://github.com/alperkan1/MS1-Dublin-Airport-Plane-Spotters)
+
+- on the top right it will give you the forking option
+
+- To Clone use the link below  
+
+[GitHUb page link](https://github.com/alperkan1/MS1-Dublin-Airport-Plane-Spotters)
+
+-Use the Code button
+-Chose your cloning option (HTTPS SSH GITHUB CLI)
+-Using git bash paste the link.
+-Use the code in your directory.
+
 
 
 ## Credits
