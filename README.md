@@ -417,7 +417,7 @@ The site is working on the follwing browsers
 | When trying to put the Map and the chedule box beside each other the map went below.| Used a flex to aling the two elements|
 | On the submit page when you submited the survey the page went to a 404 page| Created a new page and link it to te submit button|
 | Gallery photos become too small when you use a small device| Change the element to a inine block with a @media query|
-|
+| the text box on the 404 page was not moving and over flowing on smaller pages| Create a div with in the image to contain the text box|
 
 
 ## Deployment
