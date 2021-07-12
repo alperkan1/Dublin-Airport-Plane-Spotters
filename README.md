@@ -577,7 +577,12 @@ The site was deployed using GitHub. The page is pubic and can be reached with th
 
 
 ## Credits
--have to buid it first
+
+Images not referenced are developers images
+
+### Media
+
+- Image on Survey page from [Manfred Irmer](https://www.pexels.com/photo/in-flight-airliner-in-grayscale-photo-587063/) from site pexels
 
 ## Content
 -have to build it first
