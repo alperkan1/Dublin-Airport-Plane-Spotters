@@ -42,8 +42,8 @@
    5. [Tests On Devices](#v-tests-on-devices)
    6. [Browser](#vi-Browser)
    7. [Have the User Stories Been Answered](#vii-have-the-user-stories-been-answered)
-7. [Bugs](#9-bugs)
-8. [Deployment](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#deployment)
+7. [Bugs](#7-bugs)
+8. [Deployment](#8-deployment)
 9. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
 10. [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
 11. [Media](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#media)
@@ -420,8 +420,13 @@ The site is working on the follwing browsers
 | the text box on the 404 page was not moving and over flowing on smaller pages| Create a div with in the image to contain the text box|
 
 
-## Deployment
--Have to buid it to go truth the deployment steps
+## 8. Deployment
+
+The site was deployed using GitHub. The page is pubic and can be reached with the below link.
+
+[link to live page](https://github.com/alperkan1/MS1-Dublin-Airport-Plane-Spotters)
+
+
 
 ## Credits
 -have to buid it first
