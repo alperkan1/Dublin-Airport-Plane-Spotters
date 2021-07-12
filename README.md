@@ -411,6 +411,15 @@ The site is working on the follwing browsers
 
 ## 7. Bugs
 
+| bugs | Corrections
+| ------- | --- |
+| CSS code giving the error of H3 cannot be used as a label | Take the h3 heading out of the label and have it as a sperate element in the survey |
+| When trying to put the Map and the chedule box beside each other the map went below.| Used a flex to aling the two elements|
+| On the submit page when you submited the survey the page went to a 404 page| Created a new page and link it to te submit button|
+| Gallery photos become too small when you use a small device| Change the element to a inine block with a @media query|
+|
+
+
 ## Deployment
 -Have to buid it to go truth the deployment steps
 
