@@ -11,7 +11,7 @@
 
     height: 100%;
     width: 100%;
-    background: url("../images/times.JPG") no-repeat center center;
+    background: url("../images/pexels-joël-super-2315265.jpg") no-repeat center center;
     background-size: cover;
     
 }
@@ -32,13 +32,13 @@
     font-family: Playfair, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    width: 70%;
-    height: 200px;
+    width: 40%;
+    height: 40%;
     background-color: rgb(53, 49, 48, 0.7);
-    bottom: 30%;
-    left: 10%;
-    position: absolute;
-    text-align: center;
+    margin:20% 30%;
+    position:absolute;
+    
+
 
 }
 
@@ -737,11 +737,7 @@ input[type=reset] {
     }
 
     #plane-text3 {
-        text-align: center;
-       
-        margin: 0 auto;
-        
-        
+        text-align: center;       
     }
 
     #plane-text2 h3 {
@@ -1007,6 +1003,20 @@ input[type=reset] {
 /* For medium screen sizes from 557px wide and down */
 @media screen and (max-width: 557px) {
 
+    #plane-text3,
+#plane-text3 h2 {
+    color: ivory;
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 100%;
+}
+
+#plane-text3{
+    width: 45%;
+    height:35%;
+    margin-left: 25%;
+}
+
     #footer h2 {
         font-size: 60%;
         width: 40%;
@@ -1020,6 +1030,8 @@ input[type=reset] {
         margin-right: 20px;
         margin-top: 5px;
     }
+
+    
 }
 
 /* For medium screen sizes from 510px wide and down */
