@@ -204,7 +204,7 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 
 ### v. Survey
 - We will be asking people about their Spotting Experiences and get their feedback.
-- The member will supply us with their name, surname and e mail adress. 
+- The member will supply us with their name, surname and e-mail adress. 
 - We will be able to collect infromations for our database.
 
 <details><summary>Survey</summary>
@@ -230,7 +230,7 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 
 ### viii. The Footer
 - Has social media links that relate to the Dublin Airport Plane Spotting community.
-- This has the contact and company detials.
+- This has the contact and company details.
 - This will is displayed on all pages.
 
 <details><summary>Footer</summary>
@@ -256,7 +256,7 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 
 ### xi. Features Left To Implement
 - A community chat where people from the group can live chat and share their images.
-- Mail alert service for the communi tywhen a special aircraft is arriving to the airport.
+- Mail alert service for the community when a special aircraft is arriving to the airport.
 - An image sales page where people can sell their images.
 
 ## 5. Technologies Used
