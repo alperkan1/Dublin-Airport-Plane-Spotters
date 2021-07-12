@@ -44,7 +44,7 @@
    7. [Have the User Stories Been Answered](#vii-have-the-user-stories-been-answered)
 7. [Bugs](#7-bugs)
 8. [Deployment](#8-deployment)
-9. [Credits](#9credits)
+9. [Credits](#9-credits)
    1. [Media](#i-media)
    2. [Code](#ii-code)
 
