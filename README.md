@@ -407,6 +407,15 @@ The site is working on the follwing browsers
 
 #### As a first time user, I want to be able to see other users photos.
 
+| Element | Aim | Result |
+| ------- | ----|----------|
+|Gallery| The aim is to shw people photos at dublin airport| works on gallery page|
+
+<details><summary>Images</summary>
+<img src="documents/pageimages/gallery.JPG">
+</details>  
+
+
 #### As a first time user, I want to be able to locate the best locations for plane spotting at Dublin Airport.
 
 #### As a first time user, I want to get the most up to date flight information.
