@@ -445,7 +445,27 @@ on the landing page there is a schedule heading with a upto date lading and take
 
 #### As a first time user, I want to find the social media links for the the comunity.
 
-#### As a first time user, I want to be able to give my feed back.
+On all pages on the footer you can see the social media links.
+
+| Element | Aim | Result |
+| ------- | ----|----------|
+|Social Media| The aim is to have links to al the social media links on every page| works on all pages|
+
+<details><summary>Footer</summary>
+<img src="documents/pageimages/footer.JPG">
+</details>
+
+#### As a first time user, I want to be able to give my feedback.
+
+On the survey page we can collect the feed back from our user.
+
+| Element | Aim | Result |
+| ------- | ----|----------|
+|Survey| The aim is collect information and feedback| works on Surveypage|
+
+<details><summary>Survey</summary>
+<img src="documents/pageimages/survey.JPG">
+</details>  
 
 #### As a first time user, I want to be able to contact the society.
 
