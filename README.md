@@ -44,9 +44,10 @@
    7. [Have the User Stories Been Answered](#vii-have-the-user-stories-been-answered)
 7. [Bugs](#7-bugs)
 8. [Deployment](#8-deployment)
-9. [Credits](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#credits)
-10. [Content](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#content)
-11. [Media](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#media)
+9. [Credits](#9-credits)
+   1.[media](#i-media)
+   2.[Code](#ii-code)
+
 
 ## 1. User Experience
 
@@ -576,20 +577,21 @@ The site was deployed using GitHub. The page is pubic and can be reached with th
 
 
 
-## Credits
+## 9.Credits
 
 Images not referenced are developers images
 
-### Media
+### i.Media
 
-- Image on Survey page from [Manfred Irmer](https://www.pexels.com/photo/in-flight-airliner-in-grayscale-photo-587063/) from site pexels
+- Image on Survey page from [Manfred Irmer](https://www.pexels.com/photo/in-flight-airliner-in-grayscale-photo-587063/) from the site pexels
+- image on Lading page for mobile devices [Nagative Space](https://www.pexels.com/photo/airport-travel-waiting-terminal-34145/) from the site pexels
+- Image on the thank you page [Joël Super](https://www.pexels.com/photo/gray-air-vehicle-with-yellow-coated-cable-around-docking-wheels-2315265/) from the pexel
+- Image on the 404 page is from Turkish Airlines media shared to staff.
 
-## Content
--have to build it first
- 
-## Media
+### ii.Code 
 
--have to build it first
+- On the lading page the circle image inspired from the love running project code institute.
+- On the lading page the schedule code modified from the Love running project code institute.
 
 
 [Back to the top](https://github.com/alperkan1/Dublin-Airport-Plane-spotters#Dublin-Airport-Plane-Spotters)
