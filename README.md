@@ -85,7 +85,7 @@
 - As a site owner, I want users to share their images and experiences with us.
 - As a site owner, I want users to be able to give their feedback.
 - As a site owner, I want users to be able to navigate the site easily.
-- As a site owner, I want to be able to contact users with news letters.
+- As a site owner, I want to be able to contact users with newsletters.
 
 ### iii. User Requirement
 
@@ -101,7 +101,7 @@
 
 ### i. User Aims
 
-- Finding a community if like-minded of plane spotters in Dublin.
+- Finding a community of like-minded of plane spotters in Dublin.
 - To share images of aircraft at Dublin Airport.
 - To get up to date information.
 - To find the best plane spotting locations.
@@ -110,8 +110,8 @@
 ### ii. Site Creater Aims
 
 - To connect like minded users.
-- To create a data base of contact information and feedback.
-- To create a data base of images that may be shared or sold.
+- To create a database of contact information and feedback.
+- To create a database of images that may be shared or sold.
 - To find new locations.
 - To share one-off experiences with others.
 
@@ -119,11 +119,11 @@
 
 ### i. Structure 
 
-The site is structured in a visually appealing manner which draws the eye down the page. The site implements a user freindly navigtion bar. On all pages the company logo is situated on the top left and when clicked will bring you back to the home page. The navigation bar is loacated on the top right with 3 links. On all pages the footer has links to the social pages and contact details.
+The site is structured in a visually appealing manner which draws the eye down the page. The site implements a user freindly navigtion bar. On all pages the company logo is situated on the top left and when clicked will bring you back to the home page. The navigation bar is located on the top right with 3 links. On all pages the footer has links to the social media pages and contact details.
 
 #### Home Page 
 
-On the home page you can see an image of an airplane landing at Dublin Airport. Secton 2, where you can find an image of an aircraft in a circle with information about the community. At the bottom of the page the live landing and take off times are visable with a map of the best spotting locations. This page is responsive as the scale of the page changes to smaller devices.
+On the home page you can see an image of an airplane landing at Dublin Airport. In section 2,  you can find an image of an aircraft in a circle with information about the community. At the bottom of the page the live landing and take off times are visible with a map of the best spotting locations. This page is responsive as the scale of the page changes to smaller devices.
 
 #### Gallery Page 
 
@@ -145,11 +145,11 @@ This has a large image with a box overlay informing the user that they are on th
 
 ![image of website on other devices](documents/color.JPG)
 
-The site was desinged with background colours that compliment and enhances the images used. The colours are bright, cool tones to reflect the clear sky often captured in spotter images. The design of the site was choosen to instil the emotion of plane spotting on your device, anywhere in the world.  
+The site was desinged with background colours that compliment and enhance the images used. The colours are bright, cool tones to reflect the clear sky often captured in spotter images. The design of the site was choosen to instil the emotion of plane spotting on your device, anywhere in the world.  
 
 ### iii. Font
 
-Oswald with a back up of sans serif was used on the logo which represents the clear lines of an aircraft. H1 uses the playfair with a backup of san serif. h2 uses the oswald with san serif backup and the body uses the Roboto with sans serif backup. The fonts were chosen with user accessebility in mind. All of the fonts are considered to be dyslexia freindly and are clearly defined for people with visual impairments. 
+Oswald with a back up of sans serif was used on the logo which represents the clear lines of an aircraft. H1 uses the Playfair with a backup of san serif. h2 uses the Oswald with san serif backup and the body uses the Roboto with sans serif backup. The fonts were chosen with user accessebility in mind. All of the fonts are considered to be dyslexia freindly and are clearly defined for people with visual impairments. 
 
 ### iv. Wireframes
 
@@ -175,18 +175,17 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 </details>   
 
 ### ii. The Landing Page 
-- the landing page will have a photo of Dublin Airport. With Text overlay of Dublin Airport Plane Spotters.
-- This section is to communicate what the site is for with an inspirational image of an aircraft in Dublin Airport. 
+- The landing page has a photo of Dublin Airport. With Text overlay of Dublin Airport Plane Spotters.
+- This section is to communicate what the site is for, with an inspirational image of an aircraft in Dublin Airport. 
 
 <details><summary>The Landing Page</summary>
 <img src="documents/pageimages/ladingpage.JPG">
 </details> 
 
 ### iii. Community Information
-- This section will include why the person should join the site what benefits they will receive from joining the site.
-- The user will become a part of a community of likeminded people.
-- The site should encourage people to go plane spotting together. And be a part of a larger group.
-- What the advantages will be visiting the site.
+- This section includes the benefits of joining the site and what they will receive from joining the site.
+- The user will become a part of a community of like-minded people.
+- The site should encourage people to go plane spotting together and be part of a larger group.
 
 <details><summary>Community Information</summary>
 <img src="documents/pageimages/middle.JPG">
@@ -196,7 +195,7 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 - This section will inform users of when certain aircraft will be landing at Dublin Airport.
 - What time it is scheduled to land or take off.
 - This section will be updated with new times and dates of unusal aircraft arriving in Dublin Airport.
-- The loactions will inform the user of the best places to see the aircraft coming to land.
+- The locations will inform the user of the best places to see the aircraft coming to land.
 - The locations uses google maps.
 
 <details><summary>Special Flights and Locations</summary>
@@ -215,24 +214,24 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 ### vi Images
 - Will show images of aircraft in Dublin Airport by the community.
 - This section is valuable to the user as they can see what type of photos people like to take.
-- Where the best images can be taken.
-- Any one interested in purcashing images will be able to see them here.
+- Details where the best images can be taken.
+- Anyone interested in purchasing images will be able to see them here.
 
 <details><summary>Images</summary>
 <img src="documents/pageimages/gallery.JPG">
 </details>  
 
 ### vii. Video
-- The video is of dublin airport by the spotting comunity.
+- The video is of Dublin Airport by the spotting comunity.
 
 <details><summary>Video</summary>
 <img src="documents/pageimages/video.JPG">
 </details>  
 
 ### viii. The Footer
-- Will have social media links that relate to the Dublin Airport Plane Spotting community.
+- Has social media links that relate to the Dublin Airport Plane Spotting community.
 - This has the contact and company detials.
-- this will be on all pages
+- This will is displayed on all pages.
 
 <details><summary>Footer</summary>
 <img src="documents/pageimages/footer.JPG">
@@ -240,7 +239,7 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 
 ### ix. 404 Page
 
-- If a link does not wrk you will end on this page.
+- If a link does not work you will be directed to this page.
 
 <details><summary>404</summary>
 <img src="documents/pageimages/404.JPG">
@@ -257,8 +256,8 @@ Oswald with a back up of sans serif was used on the logo which represents the cl
 
 ### xi. Features Left To Implement
 - A community chat where people from the group can live chat and share their images.
-- Mail alert service when a special aircraft is arriving to the airport for the community get alerts.
-- An image sales page where people can sell there images.
+- Mail alert service for the communi tywhen a special aircraft is arriving to the airport.
+- An image sales page where people can sell their images.
 
 ## 5. Technologies Used
 
@@ -408,11 +407,11 @@ The site is working on the follwing browsers
 
 #### As a first time user, I want to be able to see other users photos.
 
-The gallery page that can be accesed from the nav bar show new photos.
+The gallery page that can be accessed from the navigation bar shows photos.
 
 | Element | Aim | Result |
 | ------- | ----|----------|
-|Gallery| The aim is to show people photos at dublin airport| works on gallery page|
+|Gallery| The aim is to show people photos at Dublin Airport| works on gallery page|
 
 <details><summary>Gallery</summary>
 <img src="documents/pageimages/gallery.JPG">
@@ -421,7 +420,7 @@ The gallery page that can be accesed from the nav bar show new photos.
 
 #### As a first time user, I want to be able to locate the best locations for plane spotting at Dublin Airport.
 
-on the landing page there is a locations heading with a map to show best location to go spotting.
+On the landing page there is a locations heading with a map to show best location to go spotting.
 
 | Element | Aim | Result |
 | ------- | ----|----------|
@@ -434,23 +433,23 @@ on the landing page there is a locations heading with a map to show best locatio
 
 #### As a first time user, I want to get the most up to date flight information.
 
-on the landing page there is a schedule heading with a upto date lading and take off information.
+On the landing page there is a schedule heading with a up to date lading and take off information.
 
 | Element | Aim | Result |
 | ------- | ----|----------|
-|Schedule| The aim is give the most upto  date information on take off and landings at Dublin Airport| works on lading page|
+|Schedule| The aim is give the most up to date information on take off and landings at Dublin Airport| works on lading page|
 
 <details><summary>Flight times</summary>
 <img src="documents/pageimages/locationandschedule.JPG">
 </details> 
 
-#### As a first time user, I want to find the social media links for the the comunity.
+#### As a first time user, I want to find the social media links for the the community.
 
 On all pages on the footer you can see the social media links.
 
 | Element | Aim | Result |
 | ------- | ----|----------|
-|Social Media| The aim is to have links to al the social media links on every page| works on all pages|
+|Social Media| The aim is to have links to all the social media links on every page| works on all pages|
 
 <details><summary>Footer</summary>
 <img src="documents/pageimages/footer.JPG">
@@ -458,7 +457,7 @@ On all pages on the footer you can see the social media links.
 
 #### As a first time user, I want to be able to give my feedback.
 
-On the survey page we can collect the feed back from our user.
+On the survey page we can collect the feedback from our users.
 
 | Element | Aim | Result |
 | ------- | ----|----------|
@@ -470,11 +469,11 @@ On the survey page we can collect the feed back from our user.
 
 #### As a first time user, I want to be able to contact the society.
 
-On all pages the user can navigate to the footer and see the contact detials.This feture
+On all pages the user can navigate to the footer and see the contact details.
 
 | Element | Aim | Result |
 | ------- | ----|----------|
-|Footer| The aim is to see the footer on all pages with the contact detials and all devices| works on all pages|
+|Footer| The aim is to see the footer on all pages with the contact details and on all devices| works on all pages|
 
 <details><summary>Footer</summary>
 <img src="documents/pageimages/footer.JPG">
@@ -482,11 +481,11 @@ On all pages the user can navigate to the footer and see the contact detials.Thi
 
 #### As a returning user, I want to be able to get the updated schedules for flights arriving and departing from Dublin Airport.
 
-On the landing page the schedue is updated for special flights that spotter would like to view.
+On the landing page the schedule is updated for special flights that spotter would like to view.
 
 | Element | Aim | Result |
 | ------- | ----|----------|
-|Schedule| The aim is to give the most upto  date information on take off and landings at Dublin Airport| works on lading page|
+|Schedule| The aim is to give the most up to  date information on take off and landings at Dublin Airport| works on lading page|
 
 <details><summary>Flight times</summary>
 <img src="documents/pageimages/locationandschedule.JPG">
@@ -494,7 +493,7 @@ On the landing page the schedue is updated for special flights that spotter woul
 
 #### As a returning user, I want to be able to see new images.
 
-We ask our site visitors to send us their images via e mail. And update the gallery page.
+We ask our site visitors to send us their images via e-mail allowing updates to the gallery page.
 
 
 <details><summary>Contact</summary>
@@ -503,16 +502,16 @@ We ask our site visitors to send us their images via e mail. And update the gall
 
 #### As a returning user, I want to be able to share images.
 
-We ask our site visitors to send us their images via e mail. And update the gallery page.
+We ask our site visitors to send us their images via e-mail. This allows updates to the gallery page.
 
 
 <details><summary>Contact</summary>
 <img src="documents/pageimages/contactus.JPG">
 </details> 
 
-#### As a returning user, I want to have the oportunaty to get unique experiences.
+#### As a returning user, I want to have the oportunity to get unique experiences.
 
-By collecting information on our survey page. We will be creating a member database. With this we will be able to contact members and offer special tours.
+By collecting information on our survey page we will be creating a member database. With this we will be able to contact members and offer special tours.
 
 | Element | Aim | Result |
 | ------- | ----|----------|
@@ -524,7 +523,7 @@ By collecting information on our survey page. We will be creating a member datab
 
 #### As a site owner, I want to be able to contact users with news letters.
 
-By collecting information on our survey page. We will be creating a member database.
+By collecting information on our survey page, we will be creating a member database.
 
 | Element | Aim | Result |
 | ------- | ----|----------|
@@ -538,10 +537,10 @@ By collecting information on our survey page. We will be creating a member datab
 
 | bugs | Corrections|
 | ------- | --- |
-| CSS code giving the error of H3 cannot be used as a label | Take the h3 heading out of the label and have it as a sperate element in the survey |
-| When trying to put the Map and the chedule box beside each other the map went below.| Used a flex to aling the two elements|
-| On the submit page when you submited the survey the page went to a 404 page| Created a new page and link it to te submit button|
-| Gallery photos become too small when you use a small device| Change the element to a inine block with a @media query|
+| CSS code giving the error of H3 cannot be used as a label | Take the h3 heading out of the label and have it as a separate element in the survey |
+| When trying to put the Map and the schedule box beside each other the map went below.| Used a flex to align the two elements|
+| On the submit page when you submitted the survey the page went to a 404 page| Created a new page and linked it to the submit button|
+| Gallery photos become too small when you use a small device| Change the element to a inline block with a @media query|
 | the text box on the 404 page was not moving and over flowing on smaller pages| Create a div with in the image to contain the text box|
 | After deployment the style.css was not working|Check the style.css file route on the HTML chnage it to the correct route.|
 
@@ -554,9 +553,9 @@ The site was deployed using GitHub. The page is pubic and can be reached with th
 
 [GitHUb page link](https://github.com/alperkan1/MS1-Dublin-Airport-Plane-Spotters)
 
-- On git hub got to the settings.
-- Then chose the Pages option on the left hand headings.
-- Chose the branch as master.
+- On git hub go to the settings.
+- Then choose the Pages option on the left hand headings.
+- Choose the branch as master.
 - Then deploy it. It will take a moment and then a link will be created with the massage "your site is published at https://(your github page).github.io/MS1-Dublin-Airport-Plane-Spotters/index.html". 
 - Then the link is live.
 
@@ -564,15 +563,15 @@ The site was deployed using GitHub. The page is pubic and can be reached with th
 
 [GitHUb page link](https://github.com/alperkan1/MS1-Dublin-Airport-Plane-Spotters)
 
-- on the top right it will give you the forking option
+- On the top right it will give you the forking option
 
 #### To Clone use the link below  
 
 [GitHUb page link](https://github.com/alperkan1/MS1-Dublin-Airport-Plane-Spotters)
 
 - Use the Code button
-- Chose your cloning option (HTTPS SSH GITHUB CLI)
-- Using git bash paste the link.
+- Choose your cloning option (HTTPS SSH GITHUB CLI)
+- Using git bash, paste the link.
 - Use the code in your directory.
 
 
