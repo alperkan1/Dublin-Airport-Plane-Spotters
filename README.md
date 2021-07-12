@@ -87,7 +87,7 @@
 - As a site owner, I want users to be able to navigate the site easily.
 - As a site owner, I want to be able to contact users with news letters.
 
-### iii. User Requirment
+### iii. User Requirement
 
 - An easy to use Navigation toolbar.
 - Accessible to those with visual and hearing imparements.
