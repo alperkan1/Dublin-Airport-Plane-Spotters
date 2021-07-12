@@ -521,7 +521,7 @@ The site was deployed using GitHub. The page is pubic and can be reached with th
 - On git hub got to the settings.
 - Then chose the Pages option on the left hand headings.
 - Chose the branch as master.
-- Then deploy it. It will take a moment and then a link will be created with the massage "your site is published at https://alperkan1.github.io/MS1-Dublin-Airport-Plane-Spotters/index.html". 
+- Then deploy it. It will take a moment and then a link will be created with the massage "your site is published at https://(your github page).github.io/MS1-Dublin-Airport-Plane-Spotters/index.html". 
 - Then the link is live.
 
 #### To run you can fork the project form the link below 
