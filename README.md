@@ -502,18 +502,36 @@ We ask our site visitors to send us their images via e mail. And update the gall
 
 #### As a returning user, I want to be able to share images.
 
+We ask our site visitors to send us their images via e mail. And update the gallery page.
+
+
+<details><summary>Contact</summary>
+<img src="documents/pageimages/contactus.JPG">
+</details> 
+
 #### As a returning user, I want to have the oportunaty to get unique experiences.
 
-#### As a returning user, I want new locations for spotting aircraft.
+By collecting information on our survey page. We will be creating a member database. With this we will be able to contact members and offer special tours.
 
+| Element | Aim | Result |
+| ------- | ----|----------|
+|Survey| The aim is collect information and feedback| works on Surveypage|
 
+<details><summary>Survey</summary>
+<img src="documents/pageimages/survey.JPG">
+</details>  
 
-- As a site owner, I want users to get updated images.
-- As a site owner, I want users to share their images and experiences with us.
-- As a site owner, I want users to be able to give their feedback.
-- As a site owner, I want users to be able to navigate the site easily.
-- As a site owner, I want to be able to contact users with news letters.
+#### As a site owner, I want to be able to contact users with news letters.
 
+By collecting information on our survey page. We will be creating a member database.
+
+| Element | Aim | Result |
+| ------- | ----|----------|
+|Survey| The aim is collect information and feedback| works on Surveypage|
+
+<details><summary>Survey</summary>
+<img src="documents/pageimages/survey.JPG">
+</details>
 
 ## 7. Bugs
 
