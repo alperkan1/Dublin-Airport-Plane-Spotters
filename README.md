@@ -90,7 +90,7 @@
 ### iii. User Requirement
 
 - An easy to use Navigation toolbar.
-- Accessible to those with visual and hearing imparements.
+- Accessible to those with visual and hearing impairments.
 - Easy to navigate and located required information.
 - Responsive to all devices sizes.
 - Visually pleasing design and layout.
