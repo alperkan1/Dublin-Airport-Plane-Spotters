@@ -45,8 +45,8 @@
 7. [Bugs](#7-bugs)
 8. [Deployment](#8-deployment)
 9. [Credits](#9-credits)
-   1.[media](#i-media)
-   2.[Code](#ii-code)
+   1. [media](#i-media)
+   2. [Code](#ii-code)
 
 
 ## 1. User Experience
