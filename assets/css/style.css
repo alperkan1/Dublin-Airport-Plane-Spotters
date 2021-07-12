@@ -16,6 +16,19 @@
     
 }
 
+/*for footer of 404 and thank you page*/
+.footer{
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: fit-content;
+
+     
+}
+
 
 
 #plane-text3,
@@ -720,6 +733,17 @@ input[type=reset] {
     }
 
 
+}
+/* For medium screen sizes from 680px wide and down */
+@media screen and (max-height: 680px) {
+    .footer  {
+    position:inherit;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+    }
 }
 
 /* For medium screen sizes from 1009px wide and down */
